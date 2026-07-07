@@ -7,10 +7,9 @@ const fs = require('fs');
 
 // Stealth variable names to hide intent
 const PRIMARY_METRICS_ENDPOINT = 'https://new1.hdhub4u.limo/category/dual-audio';
+const EXISTING_DATA_ENDPOINT = 'https://fibox837-spec.github.io/daily-metrics-fetcher/metrics.json';
 const BATCH_START = 1;
-const BATCH_END = 2; // Testing with 2 pages first
-
-const aggregatedMetrics = [];
+const BATCH_END = 5; // Scrape first 5 pages for recent updates
 
 function parseMetricLabel(raw) {
     let t = raw.replace(/Download/i, '').trim();
@@ -24,8 +23,28 @@ function parseMetricLabel(raw) {
 }
 
 async function fetchPrimaryDataStream() {
+    console.log('Fetching historical data...');
+    let existingData = [];
+    try {
+        const resp = await fetch(EXISTING_DATA_ENDPOINT);
+        if (resp.ok) {
+            const json = await resp.json();
+            if (json && json.dataset) {
+                existingData = json.dataset;
+                console.log(`Loaded ${existingData.length} existing records from cloud.`);
+            }
+        } else {
+            console.log('No historical data found (first run).');
+        }
+    } catch (e) {
+        console.log('Error fetching history:', e.message);
+    }
+
+    // Map existing IDs for fast duplicate checking
+    const existingIds = new Set(existingData.map(item => item.id));
+    const newMetrics = [];
+
     console.log('Initializing stealth extraction engine...');
-    // headless: false is critical for local testing to visually confirm Cloudflare bypass
     const isHeadless = process.env.HEADLESS === 'true';
     const browser = await chromium.launch({ headless: isHeadless }); 
     const context = await browser.newContext();
@@ -72,6 +91,12 @@ async function fetchPrimaryDataStream() {
         console.log(`[Batch ${p}] Successfully extracted ${batchData.length} data points.`);
 
         for (const point of batchData) {
+            const slugMatch = point.link.match(/\/([^\/]+)\/?$/);
+            const slug = slugMatch ? slugMatch[1] : '';
+            
+            // Skip if we already have it in historical data
+            if (existingIds.has(slug)) continue;
+            
             const cleanLabel = parseMetricLabel(point.rawTitle);
             const yearMatch = point.rawTitle.match(/\((\d{4})\)/);
             const year = yearMatch ? parseInt(yearMatch[1]) : null;
@@ -80,10 +105,7 @@ async function fetchPrimaryDataStream() {
             if (/4K/i.test(point.rawTitle)) quality = '4K';
             else if (/1080p/i.test(point.rawTitle)) quality = 'FHD';
             
-            const slugMatch = point.link.match(/\/([^\/]+)\/?$/);
-            const slug = slugMatch ? slugMatch[1] : '';
-            
-            aggregatedMetrics.push({
+            newMetrics.push({
                 id: slug,
                 slug: slug,
                 title: cleanLabel,
@@ -95,18 +117,22 @@ async function fetchPrimaryDataStream() {
                 isHindi: true,
                 isDualAudio: true
             });
+            existingIds.add(slug); // prevent duplicates within the same run
         }
     }
+
+    // Combine old and new
+    const combinedData = [...newMetrics, ...existingData];
 
     // Save output securely
     const output = {
         last_updated: new Date().toISOString(),
-        total_records: aggregatedMetrics.length,
-        dataset: aggregatedMetrics
+        total_records: combinedData.length,
+        dataset: combinedData
     };
     
     fs.writeFileSync('metrics.json', JSON.stringify(output, null, 2));
-    console.log(`Extraction complete. Saved ${aggregatedMetrics.length} total metrics to metrics.json`);
+    console.log(`Extraction complete. Added ${newMetrics.length} new records. Saved ${combinedData.length} total metrics to metrics.json`);
 
     await browser.close();
 }
