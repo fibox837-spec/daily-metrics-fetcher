@@ -5,8 +5,8 @@ const cheerio = require('cheerio');
 const PRIMARY_METRICS_ENDPOINT = 'https://new1.hdhub4u.limo/category/dual-audio';
 const EXISTING_DATA_ENDPOINT = 'https://fibox837-spec.github.io/daily-metrics-fetcher/metrics.json';
 const FLARESOLVERR_URL = process.env.FLARESOLVERR_URL || 'http://localhost:8191/v1';
-const BATCH_START = 1;
-const BATCH_END = 5; // Scrape first 5 pages for recent updates
+const BATCH_START = parseInt(process.env.START_PAGE || '1', 10);
+const BATCH_END = parseInt(process.env.END_PAGE || '5', 10);
 
 function parseMetricLabel(raw) {
     let t = raw.replace(/Download/i, '').trim();

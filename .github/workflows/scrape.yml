@@ -2,11 +2,20 @@ name: Daily Metrics Aggregator
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
+    - cron: '0 * * * *' # Run every hour
   push:
     branches:
       - main
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      start_page:
+        description: 'Start Page (e.g. 1)'
+        required: false
+        default: '1'
+      end_page:
+        description: 'End Page (e.g. 5)'
+        required: false
+        default: '5'
 
 jobs:
   aggregate:
@@ -37,6 +46,8 @@ jobs:
         env:
           HEADLESS: "true"
           FLARESOLVERR_URL: "http://localhost:8191/v1"
+          START_PAGE: ${{ github.event.inputs.start_page || '1' }}
+          END_PAGE: ${{ github.event.inputs.end_page || '5' }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
