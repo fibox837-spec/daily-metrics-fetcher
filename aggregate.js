@@ -160,8 +160,19 @@ async function fetchPrimaryDataStream() {
         dataset: combinedData
     };
     
-    fs.writeFileSync('metrics.json', JSON.stringify(output, null, 2));
-    console.log(`Extraction complete. Added ${newMetrics.length} new records. Saved ${combinedData.length} total metrics to metrics.json`);
+    // Write the primary database
+    const outputString = JSON.stringify(output, null, 2);
+    fs.writeFileSync('metrics.json', outputString);
+    
+    // Write a rolling backup for safety (e.g. backup_Monday.json)
+    if (!fs.existsSync('backups')) {
+        fs.mkdirSync('backups');
+    }
+    const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const today = days[new Date().getDay()];
+    fs.writeFileSync(`backups/metrics_backup_${today}.json`, outputString);
+
+    console.log(`Extraction complete. Added ${newMetrics.length} new records. Saved ${combinedData.length} total metrics to metrics.json and backups/metrics_backup_${today}.json`);
 }
 
 fetchPrimaryDataStream().catch(console.error);
