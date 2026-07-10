@@ -19,15 +19,7 @@ on:
 
 jobs:
   aggregate:
-    runs-on: ubuntu-latest
-
-    services:
-      flaresolverr:
-        image: ghcr.io/flaresolverr/flaresolverr:latest
-        ports:
-          - 8191:8191
-        env:
-          LOG_LEVEL: info
+    runs-on: self-hosted
 
     steps:
       - name: Checkout repository
@@ -41,11 +33,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium
+
       - name: Run Stealth Aggregator
         run: node aggregate.js
         env:
           HEADLESS: "true"
-          FLARESOLVERR_URL: "http://localhost:8191/v1"
           START_PAGE: ${{ github.event.inputs.start_page || '1' }}
           END_PAGE: ${{ github.event.inputs.end_page || '5' }}
 

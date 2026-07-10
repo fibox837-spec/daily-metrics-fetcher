@@ -1,10 +1,13 @@
-const fs = require('fs');
-const cheerio = require('cheerio');
+const { chromium } = require('playwright-extra');
+const stealth = require('puppeteer-extra-plugin-stealth')();
 
-// Constants
+// Add stealth plugin to bypass Cloudflare
+chromium.use(stealth);
+const fs = require('fs');
+
+// Stealth variable names to hide intent
 const PRIMARY_METRICS_ENDPOINT = 'https://new1.hdhub4u.limo/category/dual-audio';
 const EXISTING_DATA_ENDPOINT = 'https://fibox837-spec.github.io/daily-metrics-fetcher/metrics.json';
-const FLARESOLVERR_URL = process.env.FLARESOLVERR_URL || 'http://localhost:8191/v1';
 const BATCH_START = parseInt(process.env.START_PAGE || '1', 10);
 const BATCH_END = parseInt(process.env.END_PAGE || '5', 10);
 
@@ -17,36 +20,6 @@ function parseMetricLabel(raw) {
     t = t.replace(/\[.*?\]/g, '');
     t = t.replace(/\s+/g, ' ').trim();
     return t;
-}
-
-async function fetchWithFlareSolverr(url) {
-    try {
-        const response = await fetch(FLARESOLVERR_URL, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                cmd: 'request.get',
-                url: url,
-                maxTimeout: 60000
-            })
-        });
-
-        if (!response.ok) {
-            console.error(`FlareSolverr error: HTTP ${response.status}`);
-            return null;
-        }
-
-        const data = await response.json();
-        if (data && data.solution && data.solution.response) {
-            return data.solution.response; // returns raw HTML string
-        } else {
-            console.error('FlareSolverr response did not contain solution HTML.');
-            return null;
-        }
-    } catch (e) {
-        console.error('FlareSolverr fetch failed:', e.message);
-        return null;
-    }
 }
 
 async function fetchPrimaryDataStream() {
@@ -71,50 +44,48 @@ async function fetchPrimaryDataStream() {
     const existingIds = new Set(existingData.map(item => item.id));
     const newMetrics = [];
 
-    console.log('Initializing FlareSolverr extraction engine...');
-    
-    // Check if FlareSolverr is running (optional quick test)
-    try {
-        await fetch(FLARESOLVERR_URL);
-    } catch (e) {
-        console.log(`WARNING: FlareSolverr is not reachable at ${FLARESOLVERR_URL}`);
-    }
+    console.log('Initializing stealth extraction engine...');
+    const isHeadless = process.env.HEADLESS === 'true';
+    const browser = await chromium.launch({ headless: isHeadless }); 
+    const context = await browser.newContext();
+    const page = await context.newPage();
 
     for (let p = BATCH_START; p <= BATCH_END; p++) {
         const url = `${PRIMARY_METRICS_ENDPOINT}/page/${p}/`;
-        console.log(`[Batch ${p}] Fetching endpoint: ${url} via FlareSolverr`);
+        console.log(`[Batch ${p}] Fetching endpoint: ${url}`);
         
-        const html = await fetchWithFlareSolverr(url);
-        if (!html) {
-            console.log(`[Batch ${p}] Failed to retrieve HTML. Skipping.`);
-            continue;
-        }
+        await page.goto(url, { waitUntil: 'domcontentloaded' });
+        
+        // Wait 5 seconds to let Cloudflare Turnstile/JS challenges resolve naturally
+        await page.waitForTimeout(5000); 
 
-        const $ = cheerio.load(html);
-        const batchData = [];
-
-        // HDHub4u uses li.thumb for its movie grid
-        $('li.thumb').each((i, el) => {
-            const linkEl = $(el).find('a[href]');
-            const link = linkEl.attr('href') || '';
-            
-            const imgEl = $(el).find('img');
-            let poster = '';
-            if (imgEl.length > 0) {
-                poster = imgEl.attr('data-src') || imgEl.attr('data-lazy-src') || imgEl.attr('src') || '';
+        const batchData = await page.evaluate(() => {
+            const extracted = [];
+            // HDHub4u uses li.thumb for its movie grid
+            const nodes = document.querySelectorAll('li.thumb');
+            for (const node of nodes) {
+                const linkEl = node.querySelector('a[href]');
+                const link = linkEl ? linkEl.getAttribute('href') : '';
+                
+                const imgEl = node.querySelector('img');
+                let poster = '';
+                if (imgEl) {
+                    poster = imgEl.getAttribute('data-src') || imgEl.getAttribute('data-lazy-src') || imgEl.getAttribute('src') || '';
+                }
+                
+                let rawTitle = '';
+                const pEl = node.querySelector('figcaption p');
+                if (pEl) {
+                    rawTitle = pEl.innerText.trim();
+                } else if (imgEl) {
+                    rawTitle = imgEl.getAttribute('alt') || '';
+                }
+                
+                if (link && rawTitle) {
+                    extracted.push({ link, poster, rawTitle });
+                }
             }
-            
-            let rawTitle = '';
-            const pEl = $(el).find('figcaption p');
-            if (pEl.length > 0) {
-                rawTitle = pEl.text().trim();
-            } else if (imgEl.length > 0) {
-                rawTitle = imgEl.attr('alt') || '';
-            }
-            
-            if (link && rawTitle) {
-                batchData.push({ link, poster, rawTitle });
-            }
+            return extracted;
         });
 
         console.log(`[Batch ${p}] Successfully extracted ${batchData.length} data points.`);
@@ -173,6 +144,8 @@ async function fetchPrimaryDataStream() {
     fs.writeFileSync(`backups/metrics_backup_${today}.json`, outputString);
 
     console.log(`Extraction complete. Added ${newMetrics.length} new records. Saved ${combinedData.length} total metrics to metrics.json and backups/metrics_backup_${today}.json`);
+
+    await browser.close();
 }
 
 fetchPrimaryDataStream().catch(console.error);
