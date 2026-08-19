@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-19T18:35:38.054Z",
-  "total_records": 75,
+  "last_updated": "2026-08-19T19:25:18.671Z",
+  "total_records": 76,
   "dataset": [
+    {
+      "id": "ranapati-shivray-swari-agra-2026-hindi-marathi-webrip-full-movie",
+      "slug": "ranapati-shivray-swari-agra-2026-hindi-marathi-webrip-full-movie",
+      "title": "Ranapati Shivray Swari Agra (2026) & | Full Movie",
+      "movieName": "Ranapati Shivray Swari Agra (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/ranapati-shivray-swari-agra-2026-hindi-marathi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qzsTOE3Jn09FDEZdpjGZ1oUEtR8.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "dheeram-2025-uncut-hindi-webrip-full-movie",
       "slug": "dheeram-2025-uncut-hindi-webrip-full-movie",
