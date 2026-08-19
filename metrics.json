@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-19T20:27:38.986Z",
-  "total_records": 76,
+  "last_updated": "2026-08-19T21:25:33.136Z",
+  "total_records": 77,
   "dataset": [
+    {
+      "id": "srinivasa-mangapuram-2026-hindi-webrip-full-movie",
+      "slug": "srinivasa-mangapuram-2026-hindi-webrip-full-movie",
+      "title": "Srinivasa Mangapuram (2026) & | Full Movie",
+      "movieName": "Srinivasa Mangapuram (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/srinivasa-mangapuram-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/fqV5a8SPAP0oW59MzMshIJra3r4.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "ranapati-shivray-swari-agra-2026-hindi-marathi-webrip-full-movie",
       "slug": "ranapati-shivray-swari-agra-2026-hindi-marathi-webrip-full-movie",
