@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-19T04:36:59.929Z",
-  "total_records": 70,
+  "last_updated": "2026-08-19T05:30:25.040Z",
+  "total_records": 72,
   "dataset": [
+    {
+      "id": "wrong-turn-2021-bluray-hindi-dd2-0-english-1080p-720p-480p-dual-audio-x264-full-movie",
+      "slug": "wrong-turn-2021-bluray-hindi-dd2-0-english-1080p-720p-480p-dual-audio-x264-full-movie",
+      "title": "Wrong Turn (2021) & | Full Movie",
+      "movieName": "Wrong Turn (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/wrong-turn-2021-bluray-hindi-dd2-0-english-1080p-720p-480p-dual-audio-x264-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/19/Wrong-Turn-2021.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "wrong-turn-2003-hindi-bluray-full-movie",
+      "slug": "wrong-turn-2003-hindi-bluray-full-movie",
+      "title": "Wrong Turn (2003) & | Full Movie",
+      "movieName": "Wrong Turn (2003) & | Full Movie",
+      "year": 2003,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/wrong-turn-2003-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/19/Wrong-Turn-2003.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "heartin-2026-hindi-webrip-full-movie",
       "slug": "heartin-2026-hindi-webrip-full-movie",
