@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-19T13:44:01.847Z",
-  "total_records": 73,
+  "last_updated": "2026-08-19T14:34:18.980Z",
+  "total_records": 74,
   "dataset": [
+    {
+      "id": "star-trek-strange-new-worlds-season-2-bluray-hindi-full-series",
+      "slug": "star-trek-strange-new-worlds-season-2-bluray-hindi-full-series",
+      "title": "Star Trek: Strange New Worlds (Season 2) & | Full Series",
+      "movieName": "Star Trek: Strange New Worlds (Season 2) & | Full Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/star-trek-strange-new-worlds-season-2-bluray-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rnHNy0QkG3vPN4shAvQREriBbQO.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "liza-liza-skies-are-grey-2016-webrip-hindi-full-movie",
       "slug": "liza-liza-skies-are-grey-2016-webrip-hindi-full-movie",
