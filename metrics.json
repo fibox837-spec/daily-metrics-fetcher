@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-08-20T12:50:02.018Z",
-  "total_records": 77,
+  "last_updated": "2026-08-20T13:47:10.937Z",
+  "total_records": 81,
   "dataset": [
+    {
+      "id": "toy-story-2-1999-hindi-bluray-full-movie",
+      "slug": "toy-story-2-1999-hindi-bluray-full-movie",
+      "title": "Toy Story 2 (1999) & | Full Movie",
+      "movieName": "Toy Story 2 (1999) & | Full Movie",
+      "year": 1999,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/toy-story-2-1999-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/20/Toy-Story-2-1999.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "toy-story-3-2010-hindi-bluray-full-movie",
+      "slug": "toy-story-3-2010-hindi-bluray-full-movie",
+      "title": "Toy Story 3 (2010) & | Full Movie",
+      "movieName": "Toy Story 3 (2010) & | Full Movie",
+      "year": 2010,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/toy-story-3-2010-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/20/Toy-Story-3-2010.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "toy-story-4-2019-hindi-bluray-full-movie",
+      "slug": "toy-story-4-2019-hindi-bluray-full-movie",
+      "title": "Toy Story 4 (2019) & | Full Movie",
+      "movieName": "Toy Story 4 (2019) & | Full Movie",
+      "year": 2019,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/toy-story-4-2019-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/20/Toy-Story-4-2019.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "toy-story-1995-hindi-bluray-full-movie",
+      "slug": "toy-story-1995-hindi-bluray-full-movie",
+      "title": "Toy Story (1995) & | Full Movie",
+      "movieName": "Toy Story (1995) & | Full Movie",
+      "year": 1995,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/toy-story-1995-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/20/Toy-Story-1995.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "srinivasa-mangapuram-2026-hindi-webrip-full-movie",
       "slug": "srinivasa-mangapuram-2026-hindi-webrip-full-movie",
