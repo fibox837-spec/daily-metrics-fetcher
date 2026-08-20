@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-20T14:36:19.770Z",
-  "total_records": 81,
+  "last_updated": "2026-08-20T15:33:58.625Z",
+  "total_records": 82,
   "dataset": [
+    {
+      "id": "outer-banks-season-5-webrip-hindi-full-series",
+      "slug": "outer-banks-season-5-webrip-hindi-full-series",
+      "title": "Outer Banks (Season 5) & | NF Series",
+      "movieName": "Outer Banks (Season 5) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/outer-banks-season-5-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qlWuZV4TcZkryv7lh2srVl75jdy.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "toy-story-2-1999-hindi-bluray-full-movie",
       "slug": "toy-story-2-1999-hindi-bluray-full-movie",
