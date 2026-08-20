@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-20T19:31:44.764Z",
-  "total_records": 82,
+  "last_updated": "2026-08-20T20:28:35.465Z",
+  "total_records": 83,
   "dataset": [
+    {
+      "id": "chennai-love-story-2026-ds4k-webrip-hindi-full-movie",
+      "slug": "chennai-love-story-2026-ds4k-webrip-hindi-full-movie",
+      "title": "Chennai Love Story (2026) DS & | Full Movie",
+      "movieName": "Chennai Love Story (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/chennai-love-story-2026-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "outer-banks-season-5-webrip-hindi-full-series",
       "slug": "outer-banks-season-5-webrip-hindi-full-series",
