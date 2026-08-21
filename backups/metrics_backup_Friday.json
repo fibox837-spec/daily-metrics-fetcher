@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-21T11:26:15.087Z",
-  "total_records": 89,
+  "last_updated": "2026-08-21T12:47:13.967Z",
+  "total_records": 91,
   "dataset": [
+    {
+      "id": "mad-concrete-dreams-season-1-webrip-hindi-full-series",
+      "slug": "mad-concrete-dreams-season-1-webrip-hindi-full-series",
+      "title": "Mad Concrete Dreams (Season 1) & | NF Series",
+      "movieName": "Mad Concrete Dreams (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/mad-concrete-dreams-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vX5dzW0qmFvrhTsTQj4IPZHnbpt.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "facing-el-chapo-2026-webrip-hindi-full-movie",
+      "slug": "facing-el-chapo-2026-webrip-hindi-full-movie",
+      "title": "Facing El Chapo (2026) & | Full Movie",
+      "movieName": "Facing El Chapo (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/facing-el-chapo-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "insidious-out-of-the-further-2026-hdtc-multi-full-movie",
       "slug": "insidious-out-of-the-further-2026-hdtc-multi-full-movie",
