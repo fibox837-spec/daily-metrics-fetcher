@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-21T08:40:38.201Z",
-  "total_records": 87,
+  "last_updated": "2026-08-21T09:36:35.376Z",
+  "total_records": 88,
   "dataset": [
+    {
+      "id": "pyaar-prema-kalyanam-2026-webrip-hindi-full-movie",
+      "slug": "pyaar-prema-kalyanam-2026-webrip-hindi-full-movie",
+      "title": "Pyaar Prema Kalyanam (2026) & | Full Movie",
+      "movieName": "Pyaar Prema Kalyanam (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/pyaar-prema-kalyanam-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "lenin-2026-hindi-org-webrip-full-movie",
       "slug": "lenin-2026-hindi-org-webrip-full-movie",
