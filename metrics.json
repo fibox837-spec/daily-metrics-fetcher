@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-21T09:36:35.376Z",
-  "total_records": 88,
+  "last_updated": "2026-08-21T11:26:15.087Z",
+  "total_records": 89,
   "dataset": [
+    {
+      "id": "insidious-out-of-the-further-2026-hdtc-multi-full-movie",
+      "slug": "insidious-out-of-the-further-2026-hdtc-multi-full-movie",
+      "title": "Insidious: Out of the Further (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "movieName": "Insidious: Out of the Further (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/insidious-out-of-the-further-2026-hdtc-multi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "pyaar-prema-kalyanam-2026-webrip-hindi-full-movie",
       "slug": "pyaar-prema-kalyanam-2026-webrip-hindi-full-movie",
