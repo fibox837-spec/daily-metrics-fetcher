@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-21T03:03:15.983Z",
-  "total_records": 86,
+  "last_updated": "2026-08-21T04:38:15.458Z",
+  "total_records": 87,
   "dataset": [
+    {
+      "id": "lenin-2026-hindi-org-webrip-full-movie",
+      "slug": "lenin-2026-hindi-org-webrip-full-movie",
+      "title": "LENiN (2026) DS & | Full Movie",
+      "movieName": "LENiN (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/lenin-2026-hindi-org-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3GER9CDJQMe3eG3CcQer0zvSIyc.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "jana-nayagan-2026-hindi-webrip-full-movie",
       "slug": "jana-nayagan-2026-hindi-webrip-full-movie",
