@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-20T23:25:48.949Z",
-  "total_records": 84,
+  "last_updated": "2026-08-21T01:17:43.628Z",
+  "total_records": 86,
   "dataset": [
+    {
+      "id": "jana-nayagan-2026-hindi-webrip-full-movie",
+      "slug": "jana-nayagan-2026-hindi-webrip-full-movie",
+      "title": "Jana Nayagan (2026) DS & | Full Movie",
+      "movieName": "Jana Nayagan (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/jana-nayagan-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jtfrShq7YSjIObA20eWxmgXb9TP.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "chennai-love-story-2026-webrip-hindi-full-movie",
+      "slug": "chennai-love-story-2026-webrip-hindi-full-movie",
+      "title": "Chennai Love Story (2026) DS & | Full Movie",
+      "movieName": "Chennai Love Story (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/chennai-love-story-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "backrooms-2026-webrip-hindi-full-movie",
       "slug": "backrooms-2026-webrip-hindi-full-movie",
