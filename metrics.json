@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-22T14:21:31.468Z",
-  "total_records": 97,
+  "last_updated": "2026-08-22T15:21:08.508Z",
+  "total_records": 98,
   "dataset": [
+    {
+      "id": "rush-2013-bluray-hindi-full-movie",
+      "slug": "rush-2013-bluray-hindi-full-movie",
+      "title": "Rush (2013) & | Full Movie",
+      "movieName": "Rush (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/rush-2013-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/95BDrWmcfJDEa2WCfjmLgi67jhi.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "bury-the-devil-2026-webrip-hindi-full-movie",
       "slug": "bury-the-devil-2026-webrip-hindi-full-movie",
