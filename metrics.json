@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-22T12:38:43.286Z",
-  "total_records": 96,
+  "last_updated": "2026-08-22T13:32:14.830Z",
+  "total_records": 97,
   "dataset": [
+    {
+      "id": "bury-the-devil-2026-webrip-hindi-full-movie",
+      "slug": "bury-the-devil-2026-webrip-hindi-full-movie",
+      "title": "Bury the Devil (2026) & | Full Movie",
+      "movieName": "Bury the Devil (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/bury-the-devil-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "insidious-the-red-door-2023-bluray-hindi-full-movie",
       "slug": "insidious-the-red-door-2023-bluray-hindi-full-movie",
