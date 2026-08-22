@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-08-22T07:32:00.064Z",
-  "total_records": 93,
+  "last_updated": "2026-08-22T08:30:30.595Z",
+  "total_records": 96,
   "dataset": [
+    {
+      "id": "insidious-the-red-door-2023-bluray-hindi-full-movie",
+      "slug": "insidious-the-red-door-2023-bluray-hindi-full-movie",
+      "title": "Insidious: The Red Door (2023) & | Full Movie",
+      "movieName": "Insidious: The Red Door (2023) & | Full Movie",
+      "year": 2023,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/insidious-the-red-door-2023-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "insidious-chapter-3-2015-bluray-hindi-full-movie",
+      "slug": "insidious-chapter-3-2015-bluray-hindi-full-movie",
+      "title": "Insidious: Chapter 3 (2015) & | Full Movie",
+      "movieName": "Insidious: Chapter 3 (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/insidious-chapter-3-2015-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "insidious-chapter-2-2013-bluray-hindi-full-movie",
+      "slug": "insidious-chapter-2-2013-bluray-hindi-full-movie",
+      "title": "Insidious: Chapter 2 (2013) & | Full Movie",
+      "movieName": "Insidious: Chapter 2 (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/insidious-chapter-2-2013-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "insidious-2010-bluray-hindi-full-movie",
       "slug": "insidious-2010-bluray-hindi-full-movie",
