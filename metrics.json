@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-22T06:39:50.829Z",
-  "total_records": 92,
+  "last_updated": "2026-08-22T07:32:00.064Z",
+  "total_records": 93,
   "dataset": [
+    {
+      "id": "insidious-2010-bluray-hindi-full-movie",
+      "slug": "insidious-2010-bluray-hindi-full-movie",
+      "title": "Insidious (2010) & | Full Movie",
+      "movieName": "Insidious (2010) & | Full Movie",
+      "year": 2010,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/insidious-2010-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "somebody-2025-webrip-hindi-full-movie",
       "slug": "somebody-2025-webrip-hindi-full-movie",
