@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-08-23T06:40:38.679Z",
-  "total_records": 98,
+  "last_updated": "2026-08-23T07:33:39.252Z",
+  "total_records": 104,
   "dataset": [
+    {
+      "id": "desert-bloom-1986-webrip-hindi-full-movie",
+      "slug": "desert-bloom-1986-webrip-hindi-full-movie",
+      "title": "Desert Bloom (1986) & | Full Movie",
+      "movieName": "Desert Bloom (1986) & | Full Movie",
+      "year": 1986,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/desert-bloom-1986-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/23/Desert-Bloom-1986.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-devils-double-2011-hindi-bluray-full-movie",
+      "slug": "the-devils-double-2011-hindi-bluray-full-movie",
+      "title": "The Devil’s Double (2011) & | Full Movie",
+      "movieName": "The Devil’s Double (2011) & | Full Movie",
+      "year": 2011,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/the-devils-double-2011-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/23/The-Devils-Double-20119b2d89e199af560d.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-giant-claw-1957-hindi-bluray-full-movie",
+      "slug": "the-giant-claw-1957-hindi-bluray-full-movie",
+      "title": "The Giant Claw (1957) & | Full Movie",
+      "movieName": "The Giant Claw (1957) & | Full Movie",
+      "year": 1957,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/the-giant-claw-1957-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/23/The-Giant-Claw-1957.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-reaping-2007-hindi-bluray-full-movie",
+      "slug": "the-reaping-2007-hindi-bluray-full-movie",
+      "title": "The Reaping (2007) & | Full Movie",
+      "movieName": "The Reaping (2007) & | Full Movie",
+      "year": 2007,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/the-reaping-2007-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/23/The-Reaping-2007.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "black-sea-2014-hindi-bluray-full-movie",
+      "slug": "black-sea-2014-hindi-bluray-full-movie",
+      "title": "Black Sea (2014) & | Full Movie",
+      "movieName": "Black Sea (2014) & | Full Movie",
+      "year": 2014,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/black-sea-2014-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/15/Black-Sea-2014.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dark-shadows-2012-hindi-bluray-full-movie",
+      "slug": "dark-shadows-2012-hindi-bluray-full-movie",
+      "title": "Dark Shadows (2012) & | Full Movie",
+      "movieName": "Dark Shadows (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/dark-shadows-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/15/Dark-Shadows-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "rush-2013-bluray-hindi-full-movie",
       "slug": "rush-2013-bluray-hindi-full-movie",
