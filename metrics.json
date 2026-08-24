@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-24T15:39:13.991Z",
-  "total_records": 107,
+  "last_updated": "2026-08-24T16:37:38.900Z",
+  "total_records": 108,
   "dataset": [
+    {
+      "id": "outer-banks-season-4-webrip-hindi-full-series",
+      "slug": "outer-banks-season-4-webrip-hindi-full-series",
+      "title": "Outer Banks (Season 4) & | NF Series",
+      "movieName": "Outer Banks (Season 4) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/outer-banks-season-4-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hl1cT0351JYE7S3kpDUJu77Cvlq.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "evil-dead-burn-2026-hindi-webrip-full-movie",
       "slug": "evil-dead-burn-2026-hindi-webrip-full-movie",
