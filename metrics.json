@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-24T13:52:18.339Z",
-  "total_records": 106,
+  "last_updated": "2026-08-24T14:42:05.307Z",
+  "total_records": 107,
   "dataset": [
+    {
+      "id": "evil-dead-burn-2026-hindi-webrip-full-movie",
+      "slug": "evil-dead-burn-2026-hindi-webrip-full-movie",
+      "title": "Evil Dead Burn (2026) DS & | Full Movie",
+      "movieName": "Evil Dead Burn (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/evil-dead-burn-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pcQnHkBvQ62kqRALagpoZrEu0K.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "outer-banks-season-3-webrip-hindi-full-series",
       "slug": "outer-banks-season-3-webrip-hindi-full-series",
