@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-24T11:28:53.730Z",
-  "total_records": 104,
+  "last_updated": "2026-08-24T12:50:26.153Z",
+  "total_records": 106,
   "dataset": [
+    {
+      "id": "outer-banks-season-3-webrip-hindi-full-series",
+      "slug": "outer-banks-season-3-webrip-hindi-full-series",
+      "title": "Outer Banks (Season 3) & | NF Series",
+      "movieName": "Outer Banks (Season 3) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/outer-banks-season-3-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ofDfblLBSG9MT5m4UPvadkZ6NaR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "outer-banks-season-2-webrip-hindi-full-series",
+      "slug": "outer-banks-season-2-webrip-hindi-full-series",
+      "title": "Outer Banks (Season 2) & | NF Series",
+      "movieName": "Outer Banks (Season 2) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/outer-banks-season-2-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/mxL4RkydBUnSPknPeUMBC4lw6AJ.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "desert-bloom-1986-webrip-hindi-full-movie",
       "slug": "desert-bloom-1986-webrip-hindi-full-movie",
