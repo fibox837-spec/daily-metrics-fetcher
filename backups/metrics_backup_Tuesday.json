@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-08-25T09:35:20.877Z",
-  "total_records": 70,
+  "last_updated": "2026-08-25T10:33:02.435Z",
+  "total_records": 76,
   "dataset": [
+    {
+      "id": "i-nobody-2026-hindi-webrip-full-movie",
+      "slug": "i-nobody-2026-hindi-webrip-full-movie",
+      "title": "I, Nobody (2026) DS & | Full Movie",
+      "movieName": "I, Nobody (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new1.hdhub4u.af/i-nobody-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ptZVqeUksArFwjgu6NpOFVoJwA8.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "12-years-a-slave-2013-hindi-bluray-full-movie",
+      "slug": "12-years-a-slave-2013-hindi-bluray-full-movie",
+      "title": "12 Years a Slave (2013) & | Full Movie",
+      "movieName": "12 Years a Slave (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/12-years-a-slave-2013-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/25/12-Years-a-Slave-2013.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "ladies-in-black-2018-hindi-bluray-full-movie",
+      "slug": "ladies-in-black-2018-hindi-bluray-full-movie",
+      "title": "Ladies in Black (2018) & | Full Movie",
+      "movieName": "Ladies in Black (2018) & | Full Movie",
+      "year": 2018,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/ladies-in-black-2018-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/25/Ladies-in-Black-2018.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "missing-2009-webrip-hindi-full-movie",
+      "slug": "missing-2009-webrip-hindi-full-movie",
+      "title": "Missing (2009) & | Full Movie",
+      "movieName": "Missing (2009) & | Full Movie",
+      "year": 2009,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/missing-2009-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/25/Missing-2009.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-pink-panther-2006-hindi-bluray-full-movie",
+      "slug": "the-pink-panther-2006-hindi-bluray-full-movie",
+      "title": "The Pink Panther (2006) & | Full Movie",
+      "movieName": "The Pink Panther (2006) & | Full Movie",
+      "year": 2006,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/the-pink-panther-2006-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/25/The-Pink-Panther-2006.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "tusk-2014-hindi-bluray-full-movie",
+      "slug": "tusk-2014-hindi-bluray-full-movie",
+      "title": "Tusk (2014) & | Full Movie",
+      "movieName": "Tusk (2014) & | Full Movie",
+      "year": 2014,
+      "qualityBadge": "FHD",
+      "link": "https://new1.hdhub4u.af/tusk-2014-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/25/Tusk-2014.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "i-nobody-2026-webrip-hindi-full-movie",
       "slug": "i-nobody-2026-webrip-hindi-full-movie",
