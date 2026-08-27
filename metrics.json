@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-08-27T04:19:28.046Z",
-  "total_records": 76,
+  "last_updated": "2026-08-27T16:08:32.626Z",
+  "total_records": 83,
   "dataset": [
+    {
+      "id": "anbe-diana-2026-hindi-webrip-full-movie",
+      "slug": "anbe-diana-2026-hindi-webrip-full-movie",
+      "title": "Anbe Diana (2026) DS & | Full Movie",
+      "movieName": "Anbe Diana (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "https://new5.hdhub4u.cl/anbe-diana-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "atlantis-milos-return-2003-hindi-bluray-full-movie",
+      "slug": "atlantis-milos-return-2003-hindi-bluray-full-movie",
+      "title": "Atlantis: Milo’s Return (2003) & | Full Movie",
+      "movieName": "Atlantis: Milo’s Return (2003) & | Full Movie",
+      "year": 2003,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/atlantis-milos-return-2003-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/Atlantis-Milos-Return-2003.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "okja-2017-dubbed-dual-audio-bluray-full-movie",
+      "slug": "okja-2017-dubbed-dual-audio-bluray-full-movie",
+      "title": "Okja (2017) & | Full Movie",
+      "movieName": "Okja (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/okja-2017-dubbed-dual-audio-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/Okja-2017.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "side-effects-2013-hindi-bluray-full-movie",
+      "slug": "side-effects-2013-hindi-bluray-full-movie",
+      "title": "Side Effects (2013) & | Full Movie",
+      "movieName": "Side Effects (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/side-effects-2013-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/Side-Effects-2013.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-call-2013-hindi-bluray-full-movie",
+      "slug": "the-call-2013-hindi-bluray-full-movie",
+      "title": "The Call (2013) & | Full Movie",
+      "movieName": "The Call (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/the-call-2013-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/The-Call-2013.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-haunting-of-morella-1990-hindi-bluray-full-movie",
+      "slug": "the-haunting-of-morella-1990-hindi-bluray-full-movie",
+      "title": "The Haunting of Morella (1990) & | Full Movie",
+      "movieName": "The Haunting of Morella (1990) & | Full Movie",
+      "year": 1990,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/the-haunting-of-morella-1990-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/The-Haunting-of-Morella-1990.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "were-the-millers-2013-hindi-bluray-full-movie",
+      "slug": "were-the-millers-2013-hindi-bluray-full-movie",
+      "title": "We’re the Millers (2013) & | Full Movie",
+      "movieName": "We’re the Millers (2013) & | Full Movie",
+      "year": 2013,
+      "qualityBadge": "FHD",
+      "link": "https://new5.hdhub4u.cl/were-the-millers-2013-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/08/26/Were-the-Millers-2013.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "i-nobody-2026-hindi-webrip-full-movie",
       "slug": "i-nobody-2026-hindi-webrip-full-movie",
