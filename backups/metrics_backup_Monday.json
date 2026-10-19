@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-19T19:03:47.797Z",
-  "total_records": 154,
+  "last_updated": "2026-10-19T23:21:43.211Z",
+  "total_records": 157,
   "dataset": [
+    {
+      "id": "aryabhatt-ka-zero-2026-webrip-hindi-full-movie",
+      "slug": "aryabhatt-ka-zero-2026-webrip-hindi-full-movie",
+      "title": "Aryabhatt Ka Zero (2026) & | Full Movie",
+      "movieName": "Aryabhatt Ka Zero (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/aryabhatt-ka-zero-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hI5MZ78pj2aFuyEz1oOFMVsr8dM.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "bad-apples-2026-webrip-hindi-full-movie",
+      "slug": "bad-apples-2026-webrip-hindi-full-movie",
+      "title": "Bad Apples (2026) & | Full Movie",
+      "movieName": "Bad Apples (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/bad-apples-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "kingsman-the-golden-circle-2017-hindi-bluray-full-movie",
+      "slug": "kingsman-the-golden-circle-2017-hindi-bluray-full-movie",
+      "title": "Kingsman: The Golden Circle (2017) & | Full Movie",
+      "movieName": "Kingsman: The Golden Circle (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "/kingsman-the-golden-circle-2017-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/02/19/Kingsman-The-Golden-Circle-2017.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "love-in-disguise-season-1-webrip-hindi-full-series",
       "slug": "love-in-disguise-season-1-webrip-hindi-full-series",
