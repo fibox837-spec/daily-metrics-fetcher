@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-19T12:19:35.544Z",
-  "total_records": 152,
+  "last_updated": "2026-10-19T19:03:47.797Z",
+  "total_records": 154,
   "dataset": [
+    {
+      "id": "love-in-disguise-season-1-webrip-hindi-full-series",
+      "slug": "love-in-disguise-season-1-webrip-hindi-full-series",
+      "title": "Love in Disguise (Season 1) & | PrimeVideo Series",
+      "movieName": "Love in Disguise (Season 1) & | PrimeVideo Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/love-in-disguise-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "armored-2009-bluray-hindi-full-movie",
+      "slug": "armored-2009-bluray-hindi-full-movie",
+      "title": "Armored (2009) & | Full Movie",
+      "movieName": "Armored (2009) & | Full Movie",
+      "year": 2009,
+      "qualityBadge": "FHD",
+      "link": "/armored-2009-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/oQrAXGkBy84FyGpWrY71ptqs7zD.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "street-fighter-2026-hindi-multi-hdts-full-movie",
       "slug": "street-fighter-2026-hindi-multi-hdts-full-movie",
