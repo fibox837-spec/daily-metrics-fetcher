@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-20T03:41:44.740Z",
-  "total_records": 157,
+  "last_updated": "2026-10-20T09:11:41.439Z",
+  "total_records": 158,
   "dataset": [
+    {
+      "id": "street-fighter-2026-hindi-multi-v2-hdtc-full-movie",
+      "slug": "street-fighter-2026-hindi-multi-v2-hdtc-full-movie",
+      "title": "Street Fighter (2026) V2 HQ-HDTC & Multi Audio | Full Movie",
+      "movieName": "Street Fighter (2026) V2 HQ-HDTC & Multi Audio | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/street-fighter-2026-hindi-multi-v2-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "aryabhatt-ka-zero-2026-webrip-hindi-full-movie",
       "slug": "aryabhatt-ka-zero-2026-webrip-hindi-full-movie",
