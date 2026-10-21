@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-21T13:29:59.592Z",
-  "total_records": 168,
+  "last_updated": "2026-10-21T18:25:52.307Z",
+  "total_records": 169,
   "dataset": [
+    {
+      "id": "ghost-in-the-cell-2026-hindi-webrip-full-movie",
+      "slug": "ghost-in-the-cell-2026-hindi-webrip-full-movie",
+      "title": "Ghost in the Cell (2026) & | Full Movie",
+      "movieName": "Ghost in the Cell (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/ghost-in-the-cell-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zVXrnpocZdHTavll0e4Z1F8zVZm.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-terminal-list-season-2-hindi-webrip-all-episodes",
       "slug": "the-terminal-list-season-2-hindi-webrip-all-episodes",
