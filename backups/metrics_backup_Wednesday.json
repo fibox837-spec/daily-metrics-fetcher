@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-21T07:08:48.480Z",
-  "total_records": 166,
+  "last_updated": "2026-10-21T13:29:59.592Z",
+  "total_records": 168,
   "dataset": [
+    {
+      "id": "the-terminal-list-season-2-hindi-webrip-all-episodes",
+      "slug": "the-terminal-list-season-2-hindi-webrip-all-episodes",
+      "title": "The Terminal List (Season 2) & | | PrimeVideo Series",
+      "movieName": "The Terminal List (Season 2) & | | PrimeVideo Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-terminal-list-season-2-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "moana-2026-hindi-bluray-full-movie",
+      "slug": "moana-2026-hindi-bluray-full-movie",
+      "title": "Moana (2026) & | Full Movie",
+      "movieName": "Moana (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/moana-2026-hindi-bluray-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "take-charge-of-my-heart-season-1-webrip-hindi-full-series",
       "slug": "take-charge-of-my-heart-season-1-webrip-hindi-full-series",
