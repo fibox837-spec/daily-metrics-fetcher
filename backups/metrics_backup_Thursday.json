@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-22T13:31:24.125Z",
-  "total_records": 176,
+  "last_updated": "2026-10-22T18:20:43.563Z",
+  "total_records": 177,
   "dataset": [
+    {
+      "id": "cerita-lila-2026-webrip-hindi-full-movie",
+      "slug": "cerita-lila-2026-webrip-hindi-full-movie",
+      "title": "Cerita Lila (2026) & | Full Movie",
+      "movieName": "Cerita Lila (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/cerita-lila-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/mP94Yh7yoPYPHEWWdFBUNj9GHK5.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "jeepers-creepers-2-2003-hindi-bluray-full-movie",
       "slug": "jeepers-creepers-2-2003-hindi-bluray-full-movie",
