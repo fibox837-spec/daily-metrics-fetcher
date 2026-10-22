@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-22T18:20:43.563Z",
-  "total_records": 177,
+  "last_updated": "2026-10-22T22:09:11.499Z",
+  "total_records": 180,
   "dataset": [
+    {
+      "id": "dhoomakethu-2026-hindi-webrip-full-movie",
+      "slug": "dhoomakethu-2026-hindi-webrip-full-movie",
+      "title": "Dhoomakethu (2026) DS & | Full Movie",
+      "movieName": "Dhoomakethu (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/dhoomakethu-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sumo-didi-2026-hindi-webrip-full-movie",
+      "slug": "sumo-didi-2026-hindi-webrip-full-movie",
+      "title": "Sumo Didi (2026) DS & | Full Movie",
+      "movieName": "Sumo Didi (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/sumo-didi-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/5OyBiBCntjiMYJTPAObvfeRWVzV.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dorothy-2026-hindi-webrip-full-movie",
+      "slug": "dorothy-2026-hindi-webrip-full-movie",
+      "title": "Dorothy (2026) DS & | Full Movie",
+      "movieName": "Dorothy (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/dorothy-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "cerita-lila-2026-webrip-hindi-full-movie",
       "slug": "cerita-lila-2026-webrip-hindi-full-movie",
