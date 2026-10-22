@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-22T01:16:53.308Z",
-  "total_records": 170,
+  "last_updated": "2026-10-22T07:11:04.043Z",
+  "total_records": 173,
   "dataset": [
+    {
+      "id": "rock-of-ages-2012-hindi-bluray-full-movie",
+      "slug": "rock-of-ages-2012-hindi-bluray-full-movie",
+      "title": "Rock of Ages (2012) & | Full Movie",
+      "movieName": "Rock of Ages (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/rock-of-ages-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/21/Rock-of-Ages-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "ted-bundy-american-boogeyman-2021-hindi-bluray-full-movie",
+      "slug": "ted-bundy-american-boogeyman-2021-hindi-bluray-full-movie",
+      "title": "Ted Bundy: American Boogeyman (2021) & | Full Movie",
+      "movieName": "Ted Bundy: American Boogeyman (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "/ted-bundy-american-boogeyman-2021-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/21/Ted-Bundy-American-Boogeyman-2021.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-scorpion-king-2002-hindi-bluray-full-movie",
+      "slug": "the-scorpion-king-2002-hindi-bluray-full-movie",
+      "title": "The Scorpion King (2002) & | Full Movie",
+      "movieName": "The Scorpion King (2002) & | Full Movie",
+      "year": 2002,
+      "qualityBadge": "FHD",
+      "link": "/the-scorpion-king-2002-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/21/The-Scorpion-King-2002.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-paradise-2026-hindi-webrip-full-movie",
       "slug": "the-paradise-2026-hindi-webrip-full-movie",
