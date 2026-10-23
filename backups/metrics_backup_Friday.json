@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-10-23T01:15:57.935Z",
-  "total_records": 180,
+  "last_updated": "2026-10-23T07:03:00.994Z",
+  "total_records": 184,
   "dataset": [
+    {
+      "id": "chaar-yaar-season-1-hindi-webrip-all-episodes",
+      "slug": "chaar-yaar-season-1-hindi-webrip-all-episodes",
+      "title": "Chaar Yaar (Season 1) & HD | ALL Episodes",
+      "movieName": "Chaar Yaar (Season 1) & HD | ALL Episodes",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/chaar-yaar-season-1-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/z6WSxbaMdFQ9OLeHihaPJyVND4D.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-legend-of-hanuman-season-7-hindi-webrip-all-episodes",
+      "slug": "the-legend-of-hanuman-season-7-hindi-webrip-all-episodes",
+      "title": "The Legend of Hanuman (Season 7) & HD | ALL Episodes",
+      "movieName": "The Legend of Hanuman (Season 7) & HD | ALL Episodes",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/the-legend-of-hanuman-season-7-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/8HKdH7fAy0bExyiyJqAnI1PDAas.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "jeena-dil-se-2026-webrip-hindi-full-movie",
+      "slug": "jeena-dil-se-2026-webrip-hindi-full-movie",
+      "title": "Jeena Dil Se (2026) & | Full Movie",
+      "movieName": "Jeena Dil Se (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/jeena-dil-se-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pEsKzjFxuwvw67mBEfvQaH7yKP4.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "hitler-2024-uncut-webrip-hindi-full-movie",
+      "slug": "hitler-2024-uncut-webrip-hindi-full-movie",
+      "title": "Hitler (2024) UNCUT & | Full Movie",
+      "movieName": "Hitler (2024) UNCUT & | Full Movie",
+      "year": 2024,
+      "qualityBadge": "FHD",
+      "link": "/hitler-2024-uncut-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/5xfPlHPrQgVpQHRDYxIIwjMr2Xu.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "dhoomakethu-2026-hindi-webrip-full-movie",
       "slug": "dhoomakethu-2026-hindi-webrip-full-movie",
