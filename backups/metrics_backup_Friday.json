@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-23T18:07:14.937Z",
-  "total_records": 189,
+  "last_updated": "2026-10-23T21:52:35.297Z",
+  "total_records": 190,
   "dataset": [
+    {
+      "id": "pehla-pyaar-doosri-baar-2026-hdtc-hindi-full-movie",
+      "slug": "pehla-pyaar-doosri-baar-2026-hdtc-hindi-full-movie",
+      "title": "Pehla Pyaar Doosri Baar (2026) HDTC & | Full Movie",
+      "movieName": "Pehla Pyaar Doosri Baar (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/pehla-pyaar-doosri-baar-2026-hdtc-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "clayface-2026-hindi-hdtc-full-movie",
       "slug": "clayface-2026-hindi-hdtc-full-movie",
