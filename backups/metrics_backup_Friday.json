@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-23T07:03:00.994Z",
-  "total_records": 184,
+  "last_updated": "2026-10-23T13:07:33.539Z",
+  "total_records": 187,
   "dataset": [
+    {
+      "id": "udta-teer-2026-hindi-line-hdtc-full-movie",
+      "slug": "udta-teer-2026-hindi-line-hdtc-full-movie",
+      "title": "Udta Teer (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "movieName": "Udta Teer (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/udta-teer-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "lupin-season-4-hindi-webrip-all-episodes",
+      "slug": "lupin-season-4-hindi-webrip-all-episodes",
+      "title": "Lupin (Season 4) & | | NF Series",
+      "movieName": "Lupin (Season 4) & | | NF Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/lupin-season-4-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ziglJGRmPFJYYx65JbRxyaSNsMZ.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "gajab-raat-2026-hindi-webrip-full-movie",
+      "slug": "gajab-raat-2026-hindi-webrip-full-movie",
+      "title": "Gajab Raat (2026) & | Full Movie",
+      "movieName": "Gajab Raat (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/gajab-raat-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "chaar-yaar-season-1-hindi-webrip-all-episodes",
       "slug": "chaar-yaar-season-1-hindi-webrip-all-episodes",
