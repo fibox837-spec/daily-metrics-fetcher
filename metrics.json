@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-23T13:07:33.539Z",
-  "total_records": 187,
+  "last_updated": "2026-10-23T18:07:14.937Z",
+  "total_records": 189,
   "dataset": [
+    {
+      "id": "clayface-2026-hindi-hdtc-full-movie",
+      "slug": "clayface-2026-hindi-hdtc-full-movie",
+      "title": "Clayface (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Clayface (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/clayface-2026-hindi-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/sABj483SMS47GaaHM5tMG2Fdk2b.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "hope-2026-hindi-line-webrip-full-movie",
+      "slug": "hope-2026-hindi-line-webrip-full-movie",
+      "title": "Hope (2026) & | Full Movie",
+      "movieName": "Hope (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/hope-2026-hindi-line-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "udta-teer-2026-hindi-line-hdtc-full-movie",
       "slug": "udta-teer-2026-hindi-line-hdtc-full-movie",
