@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-10-24T10:24:07.492Z",
-  "total_records": 190,
+  "last_updated": "2026-10-24T14:17:19.887Z",
+  "total_records": 197,
   "dataset": [
+    {
+      "id": "418-2026-hindi-hdtc-full-movie",
+      "slug": "418-2026-hindi-hdtc-full-movie",
+      "title": "418 (2026) HDTC (ALL ORG) & Multi Audio | Full Movie",
+      "movieName": "418 (2026) HDTC (ALL ORG) & Multi Audio | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/418-2026-hindi-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/thfU6DM9rFEWu9xiY9SXDunaMc3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "tum-mere-ho-2026-hindi-line-hdtc-full-movie",
+      "slug": "tum-mere-ho-2026-hindi-line-hdtc-full-movie",
+      "title": "Tum Mere Ho (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Tum Mere Ho (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/tum-mere-ho-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/24/Tum-Mere-Ho2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-kite-runner-2007-hindi-bluray-full-movie",
+      "slug": "the-kite-runner-2007-hindi-bluray-full-movie",
+      "title": "The Kite Runner (2007) & | Full Movie",
+      "movieName": "The Kite Runner (2007) & | Full Movie",
+      "year": 2007,
+      "qualityBadge": "FHD",
+      "link": "/the-kite-runner-2007-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/24/The-Kite-Runner-2007.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "disturbia-2007-hindi-bluray-full-movie",
+      "slug": "disturbia-2007-hindi-bluray-full-movie",
+      "title": "Disturbia (2007) & | Full Movie",
+      "movieName": "Disturbia (2007) & | Full Movie",
+      "year": 2007,
+      "qualityBadge": "FHD",
+      "link": "/disturbia-2007-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/24/Disturbia-2007.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "gone-2012-hindi-bluray-full-movie",
+      "slug": "gone-2012-hindi-bluray-full-movie",
+      "title": "Gone (2012) & | Full Movie",
+      "movieName": "Gone (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/gone-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/24/Gone-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "state-of-play-2009-hindi-bluray-full-movie",
+      "slug": "state-of-play-2009-hindi-bluray-full-movie",
+      "title": "State of Play (2009) & | Full Movie",
+      "movieName": "State of Play (2009) & | Full Movie",
+      "year": 2009,
+      "qualityBadge": "FHD",
+      "link": "/state-of-play-2009-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/24/State-of-Play-2009.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-possession-2012-hindi-bluray-full-movie",
+      "slug": "the-possession-2012-hindi-bluray-full-movie",
+      "title": "The Possession (2012) & | Full Movie",
+      "movieName": "The Possession (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/the-possession-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/24/The-Possession-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "pehla-pyaar-doosri-baar-2026-hdtc-hindi-full-movie",
       "slug": "pehla-pyaar-doosri-baar-2026-hdtc-hindi-full-movie",
