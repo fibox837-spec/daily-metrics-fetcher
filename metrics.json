@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-24T14:17:19.887Z",
-  "total_records": 197,
+  "last_updated": "2026-10-24T17:53:25.317Z",
+  "total_records": 199,
   "dataset": [
+    {
+      "id": "tu-hai-meri-kiran-2026-hindi-line-hdtc-full-movie",
+      "slug": "tu-hai-meri-kiran-2026-hindi-line-hdtc-full-movie",
+      "title": "Tu Hai Meri Kiran (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Tu Hai Meri Kiran (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/tu-hai-meri-kiran-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/24/Tu-Hai-Meri-Kiran-2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "doosra-2026-hindi-line-hdtc-full-movie",
+      "slug": "doosra-2026-hindi-line-hdtc-full-movie",
+      "title": "Doosra (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Doosra (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/doosra-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/24/Doosra-2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "418-2026-hindi-hdtc-full-movie",
       "slug": "418-2026-hindi-hdtc-full-movie",
