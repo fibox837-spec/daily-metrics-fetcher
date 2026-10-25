@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-25T10:51:53.103Z",
-  "total_records": 205,
+  "last_updated": "2026-10-25T14:52:00.758Z",
+  "total_records": 206,
   "dataset": [
+    {
+      "id": "super-hit-2026-uncut-webrip-hindi-full-movie",
+      "slug": "super-hit-2026-uncut-webrip-hindi-full-movie",
+      "title": "Super Hit (2026) UNCUT & | Full Movie",
+      "movieName": "Super Hit (2026) UNCUT & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/super-hit-2026-uncut-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6oq8nDgJeDLOFustnNuqVxvs8Jt.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "matargashti-season-1-webrip-hindi-full-series",
       "slug": "matargashti-season-1-webrip-hindi-full-series",
