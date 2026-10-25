@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-10-25T05:45:24.477Z",
-  "total_records": 199,
+  "last_updated": "2026-10-25T10:51:53.103Z",
+  "total_records": 205,
   "dataset": [
+    {
+      "id": "matargashti-season-1-webrip-hindi-full-series",
+      "slug": "matargashti-season-1-webrip-hindi-full-series",
+      "title": "Matargashti (Season 1) & | NF Series",
+      "movieName": "Matargashti (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/matargashti-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/893gkwRt9MgC9V77gtY2jYp1emp.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-invite-2026-bluray-hindi-full-movie",
+      "slug": "the-invite-2026-bluray-hindi-full-movie",
+      "title": "The Invite (2026) & | Full Movie",
+      "movieName": "The Invite (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-invite-2026-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "surviving-hurricane-otis-2026-bluray-hindi-full-movie",
+      "slug": "surviving-hurricane-otis-2026-bluray-hindi-full-movie",
+      "title": "Surviving Hurricane Otis (2026) & | Full Movie",
+      "movieName": "Surviving Hurricane Otis (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/surviving-hurricane-otis-2026-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-great-punjab-robbery-2026-webrip-punjabi-full-movie",
+      "slug": "the-great-punjab-robbery-2026-webrip-punjabi-full-movie",
+      "title": "The Great Punjab Robbery (2026) & | Full Movie",
+      "movieName": "The Great Punjab Robbery (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/the-great-punjab-robbery-2026-webrip-punjabi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/a68I3uiB8HkpTIugUeUhpCLnStL.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sippiyan-sitaare-2026-web-dl-punjabi-dd5-1-4k-1080p-720p-480p-x264-esubs-full-movie",
+      "slug": "sippiyan-sitaare-2026-web-dl-punjabi-dd5-1-4k-1080p-720p-480p-x264-esubs-full-movie",
+      "title": "Sippiyan Sitaare (2026) & | Full Movie",
+      "movieName": "Sippiyan Sitaare (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/sippiyan-sitaare-2026-web-dl-punjabi-dd5-1-4k-1080p-720p-480p-x264-esubs-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/y1qNTEGLlPs3pIYDDmjXaXDGPVe.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "murder-in-melbourne-2026-webrip-punjabi-full-movie",
+      "slug": "murder-in-melbourne-2026-webrip-punjabi-full-movie",
+      "title": "Murder In Melbourne (2026) & | Full Movie",
+      "movieName": "Murder In Melbourne (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/murder-in-melbourne-2026-webrip-punjabi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/b4XEZL00VOMeA5JwJOIIq9tF05H.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "tu-hai-meri-kiran-2026-hindi-line-hdtc-full-movie",
       "slug": "tu-hai-meri-kiran-2026-hindi-line-hdtc-full-movie",
