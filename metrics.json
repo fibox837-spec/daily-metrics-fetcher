@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-25T14:52:00.758Z",
-  "total_records": 206,
+  "last_updated": "2026-10-25T18:11:25.399Z",
+  "total_records": 207,
   "dataset": [
+    {
+      "id": "indias-got-latent-season-2-hindi-webrip-all-episodes",
+      "slug": "indias-got-latent-season-2-hindi-webrip-all-episodes",
+      "title": "India’s Got Latent (Season 2) & HD |",
+      "movieName": "India’s Got Latent (Season 2) & HD |",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/indias-got-latent-season-2-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "super-hit-2026-uncut-webrip-hindi-full-movie",
       "slug": "super-hit-2026-uncut-webrip-hindi-full-movie",
