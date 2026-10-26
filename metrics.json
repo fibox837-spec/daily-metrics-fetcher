@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-10-26T09:47:51.170Z",
-  "total_records": 207,
+  "last_updated": "2026-10-26T16:33:14.548Z",
+  "total_records": 214,
   "dataset": [
+    {
+      "id": "little-thomas-2026-hindi-line-hdtc-full-movie",
+      "slug": "little-thomas-2026-hindi-line-hdtc-full-movie",
+      "title": "Little Thomas (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Little Thomas (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/little-thomas-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/26/Little.Thomas.2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "goosebumps-2015-hindi-bluray-full-movie",
+      "slug": "goosebumps-2015-hindi-bluray-full-movie",
+      "title": "Goosebumps (2015) & | Full Movie",
+      "movieName": "Goosebumps (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "/goosebumps-2015-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/Goosebumps-2015.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "money-train-1995-hindi-bluray-full-movie",
+      "slug": "money-train-1995-hindi-bluray-full-movie",
+      "title": "Money Train (1995) & | Full Movie",
+      "movieName": "Money Train (1995) & | Full Movie",
+      "year": 1995,
+      "qualityBadge": "FHD",
+      "link": "/money-train-1995-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/Money-Train-1995.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "oceans-eleven-2001-hindi-bluray-full-movie",
+      "slug": "oceans-eleven-2001-hindi-bluray-full-movie",
+      "title": "Ocean’s Eleven (2001) & | Full Movie",
+      "movieName": "Ocean’s Eleven (2001) & | Full Movie",
+      "year": 2001,
+      "qualityBadge": "FHD",
+      "link": "/oceans-eleven-2001-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/Oceans-Eleven-2001.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "texas-chainsaw-massacre-2022-hindi-bluray-full-movie",
+      "slug": "texas-chainsaw-massacre-2022-hindi-bluray-full-movie",
+      "title": "Texas Chainsaw Massacre (2022) & | Full Movie",
+      "movieName": "Texas Chainsaw Massacre (2022) & | Full Movie",
+      "year": 2022,
+      "qualityBadge": "FHD",
+      "link": "/texas-chainsaw-massacre-2022-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/Texas-Chainsaw-Massacre-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-ring-two-2005-hindi-bluray-full-movie",
+      "slug": "the-ring-two-2005-hindi-bluray-full-movie",
+      "title": "The Ring Two (2005) & | Full Movie",
+      "movieName": "The Ring Two (2005) & | Full Movie",
+      "year": 2005,
+      "qualityBadge": "FHD",
+      "link": "/the-ring-two-2005-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/The-Ring-Two-2005.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-scorpion-king-3-2012-hindi-bluray-full-movie",
+      "slug": "the-scorpion-king-3-2012-hindi-bluray-full-movie",
+      "title": "The Scorpion King 3 (2012) & | Full Movie",
+      "movieName": "The Scorpion King 3 (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/the-scorpion-king-3-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/26/The-Scorpion-King-3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "indias-got-latent-season-2-hindi-webrip-all-episodes",
       "slug": "indias-got-latent-season-2-hindi-webrip-all-episodes",
