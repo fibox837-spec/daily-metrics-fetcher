@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-27T14:02:27.003Z",
-  "total_records": 220,
+  "last_updated": "2026-10-27T19:51:09.468Z",
+  "total_records": 222,
   "dataset": [
+    {
+      "id": "crawlers-2025-webrip-hindi-full-movie",
+      "slug": "crawlers-2025-webrip-hindi-full-movie",
+      "title": "Crawlers (2025) & | Full Movie",
+      "movieName": "Crawlers (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "FHD",
+      "link": "/crawlers-2025-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6xBDr08l6vAkQoNBIWsHQ5pU4Kc.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "verity-2026-webrip-hindi-full-movie",
+      "slug": "verity-2026-webrip-hindi-full-movie",
+      "title": "Verity (2026) & | Full Movie",
+      "movieName": "Verity (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/verity-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "hostel-2005-hindi-bluray-full-movie",
       "slug": "hostel-2005-hindi-bluray-full-movie",
