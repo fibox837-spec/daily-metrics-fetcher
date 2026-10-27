@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-10-27T07:23:23.102Z",
-  "total_records": 214,
+  "last_updated": "2026-10-27T14:02:27.003Z",
+  "total_records": 220,
   "dataset": [
+    {
+      "id": "hostel-2005-hindi-bluray-full-movie",
+      "slug": "hostel-2005-hindi-bluray-full-movie",
+      "title": "Hostel (2005) & | Full Movie",
+      "movieName": "Hostel (2005) & | Full Movie",
+      "year": 2005,
+      "qualityBadge": "FHD",
+      "link": "/hostel-2005-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/Hostel-2006.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "pixels-2015-hindi-bluray-full-movie",
+      "slug": "pixels-2015-hindi-bluray-full-movie",
+      "title": "Pixels (2015) & | Full Movie",
+      "movieName": "Pixels (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "/pixels-2015-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/Pixels-2015.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "playing-for-keeps-2012-hindi-bluray-full-movie",
+      "slug": "playing-for-keeps-2012-hindi-bluray-full-movie",
+      "title": "Playing for Keeps (2012) & | Full Movie",
+      "movieName": "Playing for Keeps (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/playing-for-keeps-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/Playing-for-Keeps-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-guilt-trip-2012-hindi-bluray-full-movie",
+      "slug": "the-guilt-trip-2012-hindi-bluray-full-movie",
+      "title": "The Guilt Trip (2012) & | Full Movie",
+      "movieName": "The Guilt Trip (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/the-guilt-trip-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/The-Guilt-Trip-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-tall-man-2012-hindi-bluray-full-movie",
+      "slug": "the-tall-man-2012-hindi-bluray-full-movie",
+      "title": "The Tall Man (2012) & | Full Movie",
+      "movieName": "The Tall Man (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/the-tall-man-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/The-Tall-Man-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-wolfman-2010-hindi-bluray-full-movie",
+      "slug": "the-wolfman-2010-hindi-bluray-full-movie",
+      "title": "The Wolfman (2010) & | Full Movie",
+      "movieName": "The Wolfman (2010) & | Full Movie",
+      "year": 2010,
+      "qualityBadge": "FHD",
+      "link": "/the-wolfman-2010-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/27/The-Wolfman-2010.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "little-thomas-2026-hindi-line-hdtc-full-movie",
       "slug": "little-thomas-2026-hindi-line-hdtc-full-movie",
