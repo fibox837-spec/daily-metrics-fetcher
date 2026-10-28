@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-28T17:08:05.019Z",
-  "total_records": 227,
+  "last_updated": "2026-10-28T22:16:24.547Z",
+  "total_records": 228,
   "dataset": [
+    {
+      "id": "baththa-2026-webrip-hindi-full-movie",
+      "slug": "baththa-2026-webrip-hindi-full-movie",
+      "title": "Baththa (2026) DS & | Full Movie",
+      "movieName": "Baththa (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/baththa-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "ali-g-who-iz-i-2026-webrip-hindi-full-movie",
       "slug": "ali-g-who-iz-i-2026-webrip-hindi-full-movie",
