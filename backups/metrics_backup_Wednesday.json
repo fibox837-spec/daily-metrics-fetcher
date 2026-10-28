@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-28T04:20:14.079Z",
-  "total_records": 223,
+  "last_updated": "2026-10-28T11:00:55.204Z",
+  "total_records": 224,
   "dataset": [
+    {
+      "id": "drive-the-pretenders-2026-webrip-hindi-full-movie",
+      "slug": "drive-the-pretenders-2026-webrip-hindi-full-movie",
+      "title": "Drive – The Pretenders (2026) & | Full Movie",
+      "movieName": "Drive – The Pretenders (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/drive-the-pretenders-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/c6Gx7JTc8pYyW2WH7yLWj5Rx66I.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "runner-2026-webrio-hindi-full-movie",
       "slug": "runner-2026-webrio-hindi-full-movie",
