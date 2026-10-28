@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-28T11:00:55.204Z",
-  "total_records": 224,
+  "last_updated": "2026-10-28T17:08:05.019Z",
+  "total_records": 227,
   "dataset": [
+    {
+      "id": "ali-g-who-iz-i-2026-webrip-hindi-full-movie",
+      "slug": "ali-g-who-iz-i-2026-webrip-hindi-full-movie",
+      "title": "Ali G: Who Iz I? (2026) & | Full Movie",
+      "movieName": "Ali G: Who Iz I? (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/ali-g-who-iz-i-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dhindora-season-1-webrip-hindi-full-series",
+      "slug": "dhindora-season-1-webrip-hindi-full-series",
+      "title": "Dhindora (Season 1) & | NF Series",
+      "movieName": "Dhindora (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/dhindora-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cVaqEhiRPtnWzZVNZu9iaJHsoVE.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "viking-2017-webrip-hindi-full-movie",
+      "slug": "viking-2017-webrip-hindi-full-movie",
+      "title": "Viking (2017) & | Full Movie",
+      "movieName": "Viking (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "/viking-2017-webrip-hindi-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/28/Viking-2016.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "drive-the-pretenders-2026-webrip-hindi-full-movie",
       "slug": "drive-the-pretenders-2026-webrip-hindi-full-movie",
