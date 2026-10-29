@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-29T02:09:16.339Z",
-  "total_records": 228,
+  "last_updated": "2026-10-29T09:27:51.659Z",
+  "total_records": 233,
   "dataset": [
+    {
+      "id": "bol-bhavein-na-bol-2026-webrip-punjabi-full-movie",
+      "slug": "bol-bhavein-na-bol-2026-webrip-punjabi-full-movie",
+      "title": "Bol Bhavein Na Bol (2026) & | Full Movie",
+      "movieName": "Bol Bhavein Na Bol (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/bol-bhavein-na-bol-2026-webrip-punjabi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/trcfXIP3DGYEzh9kLAPnV1m1Dal.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "spider-man-2002-hindi-bluray-full-movie",
+      "slug": "spider-man-2002-hindi-bluray-full-movie",
+      "title": "Spider-Man (2002) & | Full Movie",
+      "movieName": "Spider-Man (2002) & | Full Movie",
+      "year": 2002,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-2002-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/29/Spider-Man-2002.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "spider-man-homecoming-2017-webrip-hindi-full-movie",
+      "slug": "spider-man-homecoming-2017-webrip-hindi-full-movie",
+      "title": "Spider-Man: Homecoming (2017) & | Full Movie",
+      "movieName": "Spider-Man: Homecoming (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-homecoming-2017-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/29/Spider-Man-Homecoming-2017.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "spider-man-2-2004-hindi-bluray-full-movie",
+      "slug": "spider-man-2-2004-hindi-bluray-full-movie",
+      "title": "Spider-Man 2 (2004) & | Full Movie",
+      "movieName": "Spider-Man 2 (2004) & | Full Movie",
+      "year": 2004,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-2-2004-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/29/Spider-Man-2-2004.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "spider-man-across-the-spider-verse-2023-hindi-bluray-full-movie",
+      "slug": "spider-man-across-the-spider-verse-2023-hindi-bluray-full-movie",
+      "title": "Spider-Man: Across the Spider-Verse (2023) & | Full Movie",
+      "movieName": "Spider-Man: Across the Spider-Verse (2023) & | Full Movie",
+      "year": 2023,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-across-the-spider-verse-2023-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/29/Spider-Man-Across-the-Spider-Verse-2023.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "baththa-2026-webrip-hindi-full-movie",
       "slug": "baththa-2026-webrip-hindi-full-movie",
