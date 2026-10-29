@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-29T09:27:51.659Z",
-  "total_records": 233,
+  "last_updated": "2026-10-29T16:39:35.252Z",
+  "total_records": 236,
   "dataset": [
+    {
+      "id": "immortal-2026-webrip-hindi-full-movie",
+      "slug": "immortal-2026-webrip-hindi-full-movie",
+      "title": "Immortal (2026) DS & | Full Movie | AMZN",
+      "movieName": "Immortal (2026) DS & | Full Movie | AMZN",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/immortal-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jk52am7tqUMbtf5Gb1RZN1fG1n9.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "crawlers-2025-bluray-hindi-full-movie",
+      "slug": "crawlers-2025-bluray-hindi-full-movie",
+      "title": "Crawlers (2025) & | Full Movie",
+      "movieName": "Crawlers (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "4K",
+      "link": "/crawlers-2025-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6xBDr08l6vAkQoNBIWsHQ5pU4Kc.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "hostel-haadsa-season-1-webrip-hindi-full-series",
+      "slug": "hostel-haadsa-season-1-webrip-hindi-full-series",
+      "title": "Hostel Haadsa (Season 1) & | Zee5 Series",
+      "movieName": "Hostel Haadsa (Season 1) & | Zee5 Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/hostel-haadsa-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wMkBcZHgXnU4GjLhjwqiWU3MlpR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "bol-bhavein-na-bol-2026-webrip-punjabi-full-movie",
       "slug": "bol-bhavein-na-bol-2026-webrip-punjabi-full-movie",
