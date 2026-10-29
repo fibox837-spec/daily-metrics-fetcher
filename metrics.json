@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-10-29T16:39:35.252Z",
-  "total_records": 236,
+  "last_updated": "2026-10-29T21:34:19.992Z",
+  "total_records": 242,
   "dataset": [
+    {
+      "id": "mirzapur-the-movie-2026-ds4k-webrip-hindi-full-movie",
+      "slug": "mirzapur-the-movie-2026-ds4k-webrip-hindi-full-movie",
+      "title": "Mirzapur: The Movie (2026) DS EXTENDED & | Full Movie",
+      "movieName": "Mirzapur: The Movie (2026) DS EXTENDED & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/mirzapur-the-movie-2026-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "comrade-kalyan-2026-webrip-hindi-full-movie",
+      "slug": "comrade-kalyan-2026-webrip-hindi-full-movie",
+      "title": "Comrade Kalyan (2026) & | Full Movie",
+      "movieName": "Comrade Kalyan (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/comrade-kalyan-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dont-trouble-the-trouble-2026-webrip-hindi-full-movie",
+      "slug": "dont-trouble-the-trouble-2026-webrip-hindi-full-movie",
+      "title": "Don’t Trouble the Trouble (2026) & | Full Movie",
+      "movieName": "Don’t Trouble the Trouble (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/dont-trouble-the-trouble-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/A0uqqpeLhGfOsW6muky7xvLd8Qf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "avaraachan-sons-2026-webrip-hindi-full-movie",
+      "slug": "avaraachan-sons-2026-webrip-hindi-full-movie",
+      "title": "Avaraachan & Sons (2026) & | Full Movie",
+      "movieName": "Avaraachan & Sons (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/avaraachan-sons-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wRKg0WoPV0D3bCl1B5jJtcRdU1Z.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sigma-2026-webrip-hindi-full-movie",
+      "slug": "sigma-2026-webrip-hindi-full-movie",
+      "title": "Sigma (2026) & | Full Movie",
+      "movieName": "Sigma (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/sigma-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "all-that-we-never-were-2026-webrip-hindi-full-movie",
+      "slug": "all-that-we-never-were-2026-webrip-hindi-full-movie",
+      "title": "All That We Never Were (2026) & | Full Movie",
+      "movieName": "All That We Never Were (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/all-that-we-never-were-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "immortal-2026-webrip-hindi-full-movie",
       "slug": "immortal-2026-webrip-hindi-full-movie",
