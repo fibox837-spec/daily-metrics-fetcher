@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-31T18:14:29.846Z",
-  "total_records": 259,
+  "last_updated": "2026-10-31T22:14:49.289Z",
+  "total_records": 260,
   "dataset": [
+    {
+      "id": "dexter-resurrection-season-2-webrip-hindi-full-series",
+      "slug": "dexter-resurrection-season-2-webrip-hindi-full-series",
+      "title": "Dexter: Resurrection (Season 2) & | Paramount+ Series |",
+      "movieName": "Dexter: Resurrection (Season 2) & | Paramount+ Series |",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/dexter-resurrection-season-2-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "dark-season-1-hindi-dubbed-trailer",
       "slug": "dark-season-1-hindi-dubbed-trailer",
