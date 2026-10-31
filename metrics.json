@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-31T00:26:59.685Z",
-  "total_records": 250,
+  "last_updated": "2026-10-31T06:41:37.190Z",
+  "total_records": 253,
   "dataset": [
+    {
+      "id": "spider-man-into-the-spider-verse-2018-hindi-bluray-full-movie",
+      "slug": "spider-man-into-the-spider-verse-2018-hindi-bluray-full-movie",
+      "title": "Spider-Man: Into the Spider-Verse (2018) & | Full Movie",
+      "movieName": "Spider-Man: Into the Spider-Verse (2018) & | Full Movie",
+      "year": 2018,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-into-the-spider-verse-2018-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/30/Spider-Man-Into-the-Spider-Verse-2018.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "spider-man-no-way-home-2021-hindi-bluray-full-movie",
+      "slug": "spider-man-no-way-home-2021-hindi-bluray-full-movie",
+      "title": "Spider-Man: No Way Home (2021) & | Full Movie",
+      "movieName": "Spider-Man: No Way Home (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "/spider-man-no-way-home-2021-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/30/Spider-Man-No-Way-Home-2021.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-amazing-spider-man-2012-hindi-bluray-full-movie",
+      "slug": "the-amazing-spider-man-2012-hindi-bluray-full-movie",
+      "title": "The Amazing Spider-Man (2012) & | Full Movie",
+      "movieName": "The Amazing Spider-Man (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/the-amazing-spider-man-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/10/30/The-Amazing-Spider-Man-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "nakhrewaalii-2026-hdtc-hindi-clean-full-movie",
       "slug": "nakhrewaalii-2026-hdtc-hindi-clean-full-movie",
