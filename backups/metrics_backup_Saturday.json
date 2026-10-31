@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-31T13:22:06.811Z",
-  "total_records": 256,
+  "last_updated": "2026-10-31T18:14:29.846Z",
+  "total_records": 259,
   "dataset": [
+    {
+      "id": "dark-season-1-hindi-dubbed-trailer",
+      "slug": "dark-season-1-hindi-dubbed-trailer",
+      "title": "DARK (Season 1) – Mystery/Thriller | Exclusively on HDHub4u",
+      "movieName": "DARK (Season 1) – Mystery/Thriller | Exclusively on HDHub4u",
+      "year": null,
+      "qualityBadge": "HD",
+      "link": "/dark-season-1-hindi-dubbed-trailer/",
+      "posterUrl": "https://catimages.org/images/2026/10/31/DARK-S01-Hindi-Dubbed-Trailer-HDHub4u.Agc921de1f4e7d5ef4.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "zombeid-2026-webrip-urdu-full-movie",
+      "slug": "zombeid-2026-webrip-urdu-full-movie",
+      "title": "Zombeid (2026) & | Full Movie",
+      "movieName": "Zombeid (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/zombeid-2026-webrip-urdu-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rYtnHdMefgorKwd8xGrnoI03BEU.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "ghosts-of-war-2020-hindi-bluray-full-movie",
+      "slug": "ghosts-of-war-2020-hindi-bluray-full-movie",
+      "title": "Ghosts of War (2020) & | Full Movie",
+      "movieName": "Ghosts of War (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/ghosts-of-war-2020-hindi-bluray-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/31/Ghosts-of-War-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "love-story-abhimanyu-ki-2026-hindi-line-hdtc-full-movie",
       "slug": "love-story-abhimanyu-ki-2026-hindi-line-hdtc-full-movie",
