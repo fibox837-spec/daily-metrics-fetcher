@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-31T06:41:37.190Z",
-  "total_records": 253,
+  "last_updated": "2026-10-31T13:22:06.811Z",
+  "total_records": 256,
   "dataset": [
+    {
+      "id": "love-story-abhimanyu-ki-2026-hindi-line-hdtc-full-movie",
+      "slug": "love-story-abhimanyu-ki-2026-hindi-line-hdtc-full-movie",
+      "title": "Love Story Abhimanyu Ki (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Love Story Abhimanyu Ki (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/love-story-abhimanyu-ki-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/10/31/Love.Story.Abhimanyu.Ki.2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "cold-call-2026-webrip-hindi-full-movie",
+      "slug": "cold-call-2026-webrip-hindi-full-movie",
+      "title": "Cold Call (2026) & | Full Movie",
+      "movieName": "Cold Call (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/cold-call-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nARglbGFgqIwxxlsIZUrJCQI4lp.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "how-to-ruin-diwali-meet-the-parents-season-1-webrip-hindi-full-series",
+      "slug": "how-to-ruin-diwali-meet-the-parents-season-1-webrip-hindi-full-series",
+      "title": "How to Ruin Diwali: Meet the Parents (Season 1) & | NF Series",
+      "movieName": "How to Ruin Diwali: Meet the Parents (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/how-to-ruin-diwali-meet-the-parents-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/84CWUqIiQCfCyC7epKT8y24DGRd.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "spider-man-into-the-spider-verse-2018-hindi-bluray-full-movie",
       "slug": "spider-man-into-the-spider-verse-2018-hindi-bluray-full-movie",
