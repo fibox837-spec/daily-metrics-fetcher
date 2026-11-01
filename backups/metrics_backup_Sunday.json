@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-01T08:48:21.036Z",
-  "total_records": 260,
+  "last_updated": "2026-11-01T15:49:16.108Z",
+  "total_records": 262,
   "dataset": [
+    {
+      "id": "aadarsha-kutumbam-house-no-47-ak47-2026-hdtc-telugu-full-movie",
+      "slug": "aadarsha-kutumbam-house-no-47-ak47-2026-hdtc-telugu-full-movie",
+      "title": "Aadarsha Kutumbam House No: 47 – AK47 (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Aadarsha Kutumbam House No: 47 – AK47 (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/aadarsha-kutumbam-house-no-47-ak47-2026-hdtc-telugu-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/icXcj5raB97nXpGU0AAwKZ9ZdYR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "love-always-season-1-webrip-hindi-full-series",
+      "slug": "love-always-season-1-webrip-hindi-full-series",
+      "title": "Love Always (Season 1) & | JioHotstar Series",
+      "movieName": "Love Always (Season 1) & | JioHotstar Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/love-always-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kvI67uAmIG9EnPXVRwslORKPhVl.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "dexter-resurrection-season-2-webrip-hindi-full-series",
       "slug": "dexter-resurrection-season-2-webrip-hindi-full-series",
