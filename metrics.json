@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-02T00:19:27.325Z",
-  "total_records": 262,
+  "last_updated": "2026-11-02T07:19:07.603Z",
+  "total_records": 264,
   "dataset": [
+    {
+      "id": "the-crush-1993-hindi-bluray-full-movie",
+      "slug": "the-crush-1993-hindi-bluray-full-movie",
+      "title": "The Crush (1993) & | Full Movie",
+      "movieName": "The Crush (1993) & | Full Movie",
+      "year": 1993,
+      "qualityBadge": "FHD",
+      "link": "/the-crush-1993-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/02/The-Crush-1993.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-rum-diary-2011-hindi-bluray-full-movie",
+      "slug": "the-rum-diary-2011-hindi-bluray-full-movie",
+      "title": "The Rum Diary (2011) & | Full Movie",
+      "movieName": "The Rum Diary (2011) & | Full Movie",
+      "year": 2011,
+      "qualityBadge": "FHD",
+      "link": "/the-rum-diary-2011-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/02/The-Rum-Diary-2011.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "aadarsha-kutumbam-house-no-47-ak47-2026-hdtc-telugu-full-movie",
       "slug": "aadarsha-kutumbam-house-no-47-ak47-2026-hdtc-telugu-full-movie",
