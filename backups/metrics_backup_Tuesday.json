@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-03T07:37:56.239Z",
-  "total_records": 272,
+  "last_updated": "2026-11-03T15:52:51.128Z",
+  "total_records": 274,
   "dataset": [
+    {
+      "id": "anakapalli-2026-webrip-hindi-full-movie",
+      "slug": "anakapalli-2026-webrip-hindi-full-movie",
+      "title": "Anakapalli (2026) & | Full Movie",
+      "movieName": "Anakapalli (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/anakapalli-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ApPj1Gj7FhO10YUF3axKMhkjuTT.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "kick-2023-ds4k-webrip-hindi-full-movie",
+      "slug": "kick-2023-ds4k-webrip-hindi-full-movie",
+      "title": "Kick (2023) DS & | Full Movie",
+      "movieName": "Kick (2023) DS & | Full Movie",
+      "year": 2023,
+      "qualityBadge": "4K",
+      "link": "/kick-2023-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/8s6s8PMGMDHkEPLhHiBLhaEfjFu.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "obsession-2026-full-movie",
       "slug": "obsession-2026-full-movie",
