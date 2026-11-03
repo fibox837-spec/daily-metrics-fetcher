@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-03T15:52:51.128Z",
-  "total_records": 274,
+  "last_updated": "2026-11-03T21:32:19.315Z",
+  "total_records": 276,
   "dataset": [
+    {
+      "id": "primetime-2026-webrip-english-full-movie",
+      "slug": "primetime-2026-webrip-english-full-movie",
+      "title": "Primetime (2026) & | Full Movie",
+      "movieName": "Primetime (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/primetime-2026-webrip-english-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "pathaan-2023-ds4k-webrip-hindi-full-movie",
+      "slug": "pathaan-2023-ds4k-webrip-hindi-full-movie",
+      "title": "Pathaan (2023) DS & | Full Movie",
+      "movieName": "Pathaan (2023) DS & | Full Movie",
+      "year": 2023,
+      "qualityBadge": "4K",
+      "link": "/pathaan-2023-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "anakapalli-2026-webrip-hindi-full-movie",
       "slug": "anakapalli-2026-webrip-hindi-full-movie",
