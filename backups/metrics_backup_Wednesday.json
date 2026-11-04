@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-04T01:56:15.810Z",
-  "total_records": 276,
+  "last_updated": "2026-11-04T08:43:45.171Z",
+  "total_records": 277,
   "dataset": [
+    {
+      "id": "babbar-2022-webrip-punjabi-full-movie",
+      "slug": "babbar-2022-webrip-punjabi-full-movie",
+      "title": "Babbar (2022) & | Full Movie",
+      "movieName": "Babbar (2022) & | Full Movie",
+      "year": 2022,
+      "qualityBadge": "FHD",
+      "link": "/babbar-2022-webrip-punjabi-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/11/04/Babbar.2022.1080p.AMZN.WEB-DL.Punjabi..jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "primetime-2026-webrip-english-full-movie",
       "slug": "primetime-2026-webrip-english-full-movie",
