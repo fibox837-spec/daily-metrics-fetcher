@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-04T08:43:45.171Z",
-  "total_records": 277,
+  "last_updated": "2026-11-04T16:53:55.724Z",
+  "total_records": 284,
   "dataset": [
+    {
+      "id": "the-mongoose-2026-webrip-hindi-full-movie",
+      "slug": "the-mongoose-2026-webrip-hindi-full-movie",
+      "title": "The Mongoose (2026) & | Full Movie",
+      "movieName": "The Mongoose (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-mongoose-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "detective-dee-and-the-mystery-of-the-phantom-flame-2010-webrip-hindi-full-movie",
+      "slug": "detective-dee-and-the-mystery-of-the-phantom-flame-2010-webrip-hindi-full-movie",
+      "title": "Detective Dee and the Mystery of the Phantom Flame (2010) & | Full Movie",
+      "movieName": "Detective Dee and the Mystery of the Phantom Flame (2010) & | Full Movie",
+      "year": 2010,
+      "qualityBadge": "FHD",
+      "link": "/detective-dee-and-the-mystery-of-the-phantom-flame-2010-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Detective-Dee-and-the-Mystery-of-the-Phantom-Flame-2010.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "knock-knock-2015-hindi-bluray-full-movie",
+      "slug": "knock-knock-2015-hindi-bluray-full-movie",
+      "title": "Knock Knock (2015) & | Full Movie",
+      "movieName": "Knock Knock (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "/knock-knock-2015-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Knock-Knock-2015.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "like-a-boss-2020-hindi-bluray-full-movie",
+      "slug": "like-a-boss-2020-hindi-bluray-full-movie",
+      "title": "Like a Boss (2020) & | Full Movie",
+      "movieName": "Like a Boss (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/like-a-boss-2020-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Like-a-Boss-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "paycheck-2003-hindi-bluray-full-movie",
+      "slug": "paycheck-2003-hindi-bluray-full-movie",
+      "title": "Paycheck (2003) & | Full Movie",
+      "movieName": "Paycheck (2003) & | Full Movie",
+      "year": 2003,
+      "qualityBadge": "FHD",
+      "link": "/paycheck-2003-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Paycheck-2003.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "pokemon-the-movie-mewtwo-strikes-back-evolution-2019-webrip-hindi-full-movie",
+      "slug": "pokemon-the-movie-mewtwo-strikes-back-evolution-2019-webrip-hindi-full-movie",
+      "title": "Pokémon the Movie: Mewtwo Strikes Back – Evolution (2019) & | Full Movie",
+      "movieName": "Pokémon the Movie: Mewtwo Strikes Back – Evolution (2019) & | Full Movie",
+      "year": 2019,
+      "qualityBadge": "FHD",
+      "link": "/pokemon-the-movie-mewtwo-strikes-back-evolution-2019-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Pokemon-the-Movie-Mewtwo-Strikes-Back---Evolution-2019.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dont-knock-twice-2016-hindi-bluray-full-movie",
+      "slug": "dont-knock-twice-2016-hindi-bluray-full-movie",
+      "title": "Don’t Knock Twice (2016) & | Full Movie",
+      "movieName": "Don’t Knock Twice (2016) & | Full Movie",
+      "year": 2016,
+      "qualityBadge": "FHD",
+      "link": "/dont-knock-twice-2016-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/04/Dont-Knock-Twice-2016.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "babbar-2022-webrip-punjabi-full-movie",
       "slug": "babbar-2022-webrip-punjabi-full-movie",
