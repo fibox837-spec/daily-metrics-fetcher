@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-11-05T11:55:25.034Z",
-  "total_records": 291,
+  "last_updated": "2026-11-05T19:35:40.920Z",
+  "total_records": 295,
   "dataset": [
+    {
+      "id": "ramayana-2026-hdtc-multi-audio-full-movie",
+      "slug": "ramayana-2026-hdtc-multi-audio-full-movie",
+      "title": "Ramayana: Rise of a Legend (2026) HQ-HDTC (ORG) & Multi Audio | Full Movie (रामायण)",
+      "movieName": "Ramayana: Rise of a Legend (2026) HQ-HDTC (ORG) & Multi Audio | Full Movie (रामायण)",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/ramayana-2026-hdtc-multi-audio-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "im-game-2026-web-dl-hindi-full-movie",
+      "slug": "im-game-2026-web-dl-hindi-full-movie",
+      "title": "I’m Game (2026) & | Full Movie",
+      "movieName": "I’m Game (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/im-game-2026-web-dl-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-vvaan-2026-web-dl-hindi-full-movie",
+      "slug": "the-vvaan-2026-web-dl-hindi-full-movie",
+      "title": "The Vvaan (2026) (DD5.1) & | Full Movie",
+      "movieName": "The Vvaan (2026) (DD5.1) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-vvaan-2026-web-dl-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/eIGFapCm8OV6K8Zgd8qsySd4AOK.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "meesaya-murukku-2-2026-webrip-hindi-full-movie",
+      "slug": "meesaya-murukku-2-2026-webrip-hindi-full-movie",
+      "title": "Meesaya Murukku 2 (2026) & | Full Movie",
+      "movieName": "Meesaya Murukku 2 (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/meesaya-murukku-2-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "dilwali-diwali-2026-full-movie",
       "slug": "dilwali-diwali-2026-full-movie",
