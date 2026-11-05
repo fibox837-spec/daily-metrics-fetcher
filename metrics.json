@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-05T03:14:30.935Z",
-  "total_records": 284,
+  "last_updated": "2026-11-05T11:55:25.034Z",
+  "total_records": 291,
   "dataset": [
+    {
+      "id": "dilwali-diwali-2026-full-movie",
+      "slug": "dilwali-diwali-2026-full-movie",
+      "title": "Dilwali Diwali (2026) & | Full Movie",
+      "movieName": "Dilwali Diwali (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/dilwali-diwali-2026-full-movie/",
+      "posterUrl": "https://www.themoviedb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "bhai-tera-star-hai-2026-webrip-hindi-full-movie",
+      "slug": "bhai-tera-star-hai-2026-webrip-hindi-full-movie",
+      "title": "Bhai Tera Star Hai (2026) & | Full Movie",
+      "movieName": "Bhai Tera Star Hai (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/bhai-tera-star-hai-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "heist-2001-hindi-bluray-full-movie",
+      "slug": "heist-2001-hindi-bluray-full-movie",
+      "title": "Heist (2001) & | Full Movie",
+      "movieName": "Heist (2001) & | Full Movie",
+      "year": 2001,
+      "qualityBadge": "FHD",
+      "link": "/heist-2001-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/05/Heist-2001.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "house-at-the-end-of-the-street-2012-hindi-bluray-full-movie",
+      "slug": "house-at-the-end-of-the-street-2012-hindi-bluray-full-movie",
+      "title": "House at the End of the Street (2012) & | Full Movie",
+      "movieName": "House at the End of the Street (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/house-at-the-end-of-the-street-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/05/House-at-the-End-of-the-Street-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "ralph-breaks-the-internet-2018-hindi-bluray-full-movie",
+      "slug": "ralph-breaks-the-internet-2018-hindi-bluray-full-movie",
+      "title": "Ralph Breaks the Internet (2018) & | Full Movie",
+      "movieName": "Ralph Breaks the Internet (2018) & | Full Movie",
+      "year": 2018,
+      "qualityBadge": "FHD",
+      "link": "/ralph-breaks-the-internet-2018-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/05/Ralph-Breaks-the-Internet-2018.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "replicas-2018-hindi-bluray-full-movie",
+      "slug": "replicas-2018-hindi-bluray-full-movie",
+      "title": "Replicas (2018) & | Full Movie",
+      "movieName": "Replicas (2018) & | Full Movie",
+      "year": 2018,
+      "qualityBadge": "FHD",
+      "link": "/replicas-2018-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/05/Replicas-2018.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "thoroughbreds-2017-hindi-bluray-full-movie",
+      "slug": "thoroughbreds-2017-hindi-bluray-full-movie",
+      "title": "Thoroughbreds (2017) & | Full Movie",
+      "movieName": "Thoroughbreds (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "/thoroughbreds-2017-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/05/Thoroughbreds-2018c406dd99245c2129.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-mongoose-2026-webrip-hindi-full-movie",
       "slug": "the-mongoose-2026-webrip-hindi-full-movie",
