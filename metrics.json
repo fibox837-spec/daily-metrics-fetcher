@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-06T15:42:39.771Z",
-  "total_records": 305,
+  "last_updated": "2026-11-06T21:18:50.812Z",
+  "total_records": 306,
   "dataset": [
+    {
+      "id": "madraskaaran-2025-uncut-webrip-hindi-full-movie",
+      "slug": "madraskaaran-2025-uncut-webrip-hindi-full-movie",
+      "title": "Madraskaaran (2025) UNCUT & | Full Movie",
+      "movieName": "Madraskaaran (2025) UNCUT & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "FHD",
+      "link": "/madraskaaran-2025-uncut-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "ramayana-2026-v2-hdtc-multi-audio-full-movie",
       "slug": "ramayana-2026-v2-hdtc-multi-audio-full-movie",
