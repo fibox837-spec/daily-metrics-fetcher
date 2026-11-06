@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-06T07:42:26.864Z",
-  "total_records": 300,
+  "last_updated": "2026-11-06T15:42:39.771Z",
+  "total_records": 305,
   "dataset": [
+    {
+      "id": "ramayana-2026-v2-hdtc-multi-audio-full-movie",
+      "slug": "ramayana-2026-v2-hdtc-multi-audio-full-movie",
+      "title": "Ramayana: Rise of a Legend (2026) V2 HQ-HDTC (ORG) & Multi Audio | Full Movie (रामायण)",
+      "movieName": "Ramayana: Rise of a Legend (2026) V2 HQ-HDTC (ORG) & Multi Audio | Full Movie (रामायण)",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/ramayana-2026-v2-hdtc-multi-audio-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qPNAZE5nWKWB6UsVfps7mXyQNgS.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "oh-sukumari-2026-webrip-hindi-full-movie",
+      "slug": "oh-sukumari-2026-webrip-hindi-full-movie",
+      "title": "Oh..! Sukumari (2026) & | Full Movie",
+      "movieName": "Oh..! Sukumari (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/oh-sukumari-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jTJ7ML9wtt4AGaJHCNxFqwU4MJI.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "frequency-of-fear-2026-webrip-hindi-full-movie",
+      "slug": "frequency-of-fear-2026-webrip-hindi-full-movie",
+      "title": "Frequency of Fear (2026) & | Full Movie",
+      "movieName": "Frequency of Fear (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/frequency-of-fear-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "forgotten-island-2026-webrip-hindi-full-movie",
+      "slug": "forgotten-island-2026-webrip-hindi-full-movie",
+      "title": "Forgotten Island (2026) & | Full Movie",
+      "movieName": "Forgotten Island (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/forgotten-island-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "possible-love-2026-webrip-hindi-full-movie",
+      "slug": "possible-love-2026-webrip-hindi-full-movie",
+      "title": "Possible Love (2026) & | Full Movie",
+      "movieName": "Possible Love (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/possible-love-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "nooru-kodi-vaanavil-2026-webrip-hindi-full-movie",
       "slug": "nooru-kodi-vaanavil-2026-webrip-hindi-full-movie",
