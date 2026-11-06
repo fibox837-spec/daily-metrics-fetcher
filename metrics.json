@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-06T00:48:29.788Z",
-  "total_records": 297,
+  "last_updated": "2026-11-06T07:42:26.864Z",
+  "total_records": 300,
   "dataset": [
+    {
+      "id": "nooru-kodi-vaanavil-2026-webrip-hindi-full-movie",
+      "slug": "nooru-kodi-vaanavil-2026-webrip-hindi-full-movie",
+      "title": "Nooru Kodi Vaanavil (2026) & | Full Movie,",
+      "movieName": "Nooru Kodi Vaanavil (2026) & | Full Movie,",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/nooru-kodi-vaanavil-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/gSJodOp12s5qFU3pO9Cz1sjQSYZ.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-100-2025-webrip-hindi-full-movie",
+      "slug": "the-100-2025-webrip-hindi-full-movie",
+      "title": "The 100 (2025) & | Full Movie",
+      "movieName": "The 100 (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "FHD",
+      "link": "/the-100-2025-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vY7OxwSmJdrdcNWVyimkly12ufe.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "kankaan-de-ohle-2026-webrip-punjabi-full-movie",
+      "slug": "kankaan-de-ohle-2026-webrip-punjabi-full-movie",
+      "title": "Kankaan De Ohle (2026) & | Full Movie",
+      "movieName": "Kankaan De Ohle (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/kankaan-de-ohle-2026-webrip-punjabi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/yojlVkLGPdMPkFyVEJL3JHzHJZV.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "heart-of-the-beast-2026-web-dl-hindi-full-movie",
       "slug": "heart-of-the-beast-2026-web-dl-hindi-full-movie",
