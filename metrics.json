@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-07T08:25:33.528Z",
-  "total_records": 309,
+  "last_updated": "2026-11-07T15:28:30.714Z",
+  "total_records": 311,
   "dataset": [
+    {
+      "id": "the-odyssey-2026-imax-bluray-hindi-line-full-movie",
+      "slug": "the-odyssey-2026-imax-bluray-hindi-line-full-movie",
+      "title": "The Odyssey (2026) IMAX ] & | Full Movie",
+      "movieName": "The Odyssey (2026) IMAX ] & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/the-odyssey-2026-imax-bluray-hindi-line-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "scene-2026-hdtc-tamil-clean-full-movie",
+      "slug": "scene-2026-hdtc-tamil-clean-full-movie",
+      "title": "Scene (2026) HDTC & | Full Movie",
+      "movieName": "Scene (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/scene-2026-hdtc-tamil-clean-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "jailer-2-2026-hindi-hdrip-full-movie",
       "slug": "jailer-2-2026-hindi-hdrip-full-movie",
