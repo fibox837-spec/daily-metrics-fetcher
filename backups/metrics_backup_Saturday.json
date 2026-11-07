@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-07T01:39:54.950Z",
-  "total_records": 306,
+  "last_updated": "2026-11-07T08:25:33.528Z",
+  "total_records": 309,
   "dataset": [
+    {
+      "id": "jailer-2-2026-hindi-hdrip-full-movie",
+      "slug": "jailer-2-2026-hindi-hdrip-full-movie",
+      "title": "Jailer 2 (2026) & Multi Audio | Full Movie",
+      "movieName": "Jailer 2 (2026) & Multi Audio | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/jailer-2-2026-hindi-hdrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3o15WnZK5bDdFbzWoz006ptEyVu.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "mahendragiri-vaaraahi-2026-uncut-webrip-hindi-full-movie",
+      "slug": "mahendragiri-vaaraahi-2026-uncut-webrip-hindi-full-movie",
+      "title": "Mahendragiri Vaaraahi (2026) UNCUT & | Full Movie",
+      "movieName": "Mahendragiri Vaaraahi (2026) UNCUT & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/mahendragiri-vaaraahi-2026-uncut-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "black-doves-season-2-webrip-hindi-full-series",
+      "slug": "black-doves-season-2-webrip-hindi-full-series",
+      "title": "Black Doves (Season 2) & | NF Series",
+      "movieName": "Black Doves (Season 2) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/black-doves-season-2-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cmef3NUA2ThG0P2o4GGgucc8Ve3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "madraskaaran-2025-uncut-webrip-hindi-full-movie",
       "slug": "madraskaaran-2025-uncut-webrip-hindi-full-movie",
