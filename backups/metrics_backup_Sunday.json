@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-08T17:41:09.584Z",
-  "total_records": 321,
+  "last_updated": "2026-11-08T21:45:25.521Z",
+  "total_records": 323,
   "dataset": [
+    {
+      "id": "marshals-season-1-bluray-hindi-full-series",
+      "slug": "marshals-season-1-bluray-hindi-full-series",
+      "title": "Marshals (Season 1) & | Full Series",
+      "movieName": "Marshals (Season 1) & | Full Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/marshals-season-1-bluray-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "scene-2026-hdtc-telugu-clean-full-movie",
+      "slug": "scene-2026-hdtc-telugu-clean-full-movie",
+      "title": "Scene (2026) HDTC & | Full Movie",
+      "movieName": "Scene (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/scene-2026-hdtc-telugu-clean-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/o07oEIsJLPLbLWMCX54fZbUYh9y.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "viruman-2022-uncut-webrip-hindi-full-movie",
       "slug": "viruman-2022-uncut-webrip-hindi-full-movie",
