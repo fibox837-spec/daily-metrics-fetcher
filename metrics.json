@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-09T09:15:07.505Z",
-  "total_records": 325,
+  "last_updated": "2026-11-09T20:28:09.293Z",
+  "total_records": 328,
   "dataset": [
+    {
+      "id": "parasakthi-2026-uncensored-webrip-hindi-full-movie",
+      "slug": "parasakthi-2026-uncensored-webrip-hindi-full-movie",
+      "title": "Parasakthi (2026) UNCENSORED & | Full Movie",
+      "movieName": "Parasakthi (2026) UNCENSORED & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/parasakthi-2026-uncensored-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/69uBDS8hP33cwmc2lejIKviefsr.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-good-lawyer-2026-webrip-hindi-full-movie",
+      "slug": "the-good-lawyer-2026-webrip-hindi-full-movie",
+      "title": "The Good Lawyer (2026) & | Full Movie",
+      "movieName": "The Good Lawyer (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-good-lawyer-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/5gLUXJZzyL1GQAAGdfnz1KEH8gj.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "all-the-pretty-horses-2000-bluray-hindi-full-movie",
+      "slug": "all-the-pretty-horses-2000-bluray-hindi-full-movie",
+      "title": "All the Pretty Horses (2000) & | Full Movie",
+      "movieName": "All the Pretty Horses (2000) & | Full Movie",
+      "year": 2000,
+      "qualityBadge": "FHD",
+      "link": "/all-the-pretty-horses-2000-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6E4E7wYXw1DE2321F2hVNryLSk7.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "pradhama-drishtiya-kuttakkar-2026-hindi-dubbed-trailer",
       "slug": "pradhama-drishtiya-kuttakkar-2026-hindi-dubbed-trailer",
