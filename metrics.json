@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-09T01:28:11.458Z",
-  "total_records": 323,
+  "last_updated": "2026-11-09T09:15:07.505Z",
+  "total_records": 325,
   "dataset": [
+    {
+      "id": "pradhama-drishtiya-kuttakkar-2026-hindi-dubbed-trailer",
+      "slug": "pradhama-drishtiya-kuttakkar-2026-hindi-dubbed-trailer",
+      "title": "Pradhama Drishtiya Kuttakkar (2026) – Crime/Thriller | Exclusively on HDHub4u",
+      "movieName": "Pradhama Drishtiya Kuttakkar (2026) – Crime/Thriller | Exclusively on HDHub4u",
+      "year": 2026,
+      "qualityBadge": "HD",
+      "link": "/pradhama-drishtiya-kuttakkar-2026-hindi-dubbed-trailer/",
+      "posterUrl": "https://catimages.org/images/2026/11/09/Pradhama.Drishtiya.Kuttakkar.2026-Hindi-Dubbed-Full-Movie-HDHub4u.Agc21044ab8c9741bd.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "crystal-lake-season-1-webrip-english-full-series",
+      "slug": "crystal-lake-season-1-webrip-english-full-series",
+      "title": "Crystal Lake (Season 1) & | PeaCock Series",
+      "movieName": "Crystal Lake (Season 1) & | PeaCock Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/crystal-lake-season-1-webrip-english-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "marshals-season-1-bluray-hindi-full-series",
       "slug": "marshals-season-1-bluray-hindi-full-series",
