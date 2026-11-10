@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-10T03:13:39.630Z",
-  "total_records": 328,
+  "last_updated": "2026-11-10T12:11:21.961Z",
+  "total_records": 334,
   "dataset": [
+    {
+      "id": "other-mommy-2026-webrip-hindi-full-movie",
+      "slug": "other-mommy-2026-webrip-hindi-full-movie",
+      "title": "Other Mommy (2026) & | Full Movie",
+      "movieName": "Other Mommy (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/other-mommy-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "alex-cross-2012-hindi-bluray-full-movie",
+      "slug": "alex-cross-2012-hindi-bluray-full-movie",
+      "title": "Alex Cross (2012) & | Full Movie",
+      "movieName": "Alex Cross (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/alex-cross-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/10/Alex-Cross-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "malibu-rescue-the-next-wave-2020-webrip-hindi-full-movie",
+      "slug": "malibu-rescue-the-next-wave-2020-webrip-hindi-full-movie",
+      "title": "Malibu Rescue: The Next Wave (2020) & | Full Movie",
+      "movieName": "Malibu Rescue: The Next Wave (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/malibu-rescue-the-next-wave-2020-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/10/Malibu-RescueThe-Next-Wave-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-fk-it-list-2020-webrip-hindi-full-movie",
+      "slug": "the-fk-it-list-2020-webrip-hindi-full-movie",
+      "title": "The F**k-It List (2020) & | Full Movie",
+      "movieName": "The F**k-It List (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/the-fk-it-list-2020-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/10/The-Fk-It-List-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-main-event-2020-webrip-hindi-full-movie",
+      "slug": "the-main-event-2020-webrip-hindi-full-movie",
+      "title": "The Main Event (2020) & | Full Movie",
+      "movieName": "The Main Event (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/the-main-event-2020-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/10/The-Main-Event-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "xxx-return-of-xander-cage-2017-hindi-bluray-full-movie",
+      "slug": "xxx-return-of-xander-cage-2017-hindi-bluray-full-movie",
+      "title": "xXx: Return of Xander Cage (2017) & | Full Movie",
+      "movieName": "xXx: Return of Xander Cage (2017) & | Full Movie",
+      "year": 2017,
+      "qualityBadge": "FHD",
+      "link": "/xxx-return-of-xander-cage-2017-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/10/xXx-Return-of-Xander-Cage-2017.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "parasakthi-2026-uncensored-webrip-hindi-full-movie",
       "slug": "parasakthi-2026-uncensored-webrip-hindi-full-movie",
