@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-10T12:11:21.961Z",
-  "total_records": 334,
+  "last_updated": "2026-11-10T20:16:15.453Z",
+  "total_records": 336,
   "dataset": [
+    {
+      "id": "the-diplomat-season-2-webrip-hindi-full-series",
+      "slug": "the-diplomat-season-2-webrip-hindi-full-series",
+      "title": "The Diplomat (Season 2) & | NF Series",
+      "movieName": "The Diplomat (Season 2) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-diplomat-season-2-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vKAxhfhaMRGvyo9fa8WNW7RMhMB.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-diplomat-season-1-webrip-hindi-full-series",
+      "slug": "the-diplomat-season-1-webrip-hindi-full-series",
+      "title": "The Diplomat (Season 1) & | NF Series",
+      "movieName": "The Diplomat (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-diplomat-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/xZ9OF5CTmM4Ec9oO5HWL5KTt67r.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "other-mommy-2026-webrip-hindi-full-movie",
       "slug": "other-mommy-2026-webrip-hindi-full-movie",
