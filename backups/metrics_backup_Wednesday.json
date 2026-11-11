@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-11T16:55:54.493Z",
-  "total_records": 347,
+  "last_updated": "2026-11-11T23:20:30.041Z",
+  "total_records": 349,
   "dataset": [
+    {
+      "id": "jailer-2-2026-hindi-webrip-full-movie",
+      "slug": "jailer-2-2026-hindi-webrip-full-movie",
+      "title": "Jailer 2 (2026) DS & | Full Movie",
+      "movieName": "Jailer 2 (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/jailer-2-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ggksxezKElvrpiL8grnGFBTAueP.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sardaar-ji-3-2025-punjabi-webrip-full-movie",
+      "slug": "sardaar-ji-3-2025-punjabi-webrip-full-movie",
+      "title": "Sardaar Ji 3 (2025) & | Full Movie",
+      "movieName": "Sardaar Ji 3 (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "4K",
+      "link": "/sardaar-ji-3-2025-punjabi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/dw7bBJSXa69uR9T0pVJBXGYQ5gq.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-body-season-1-season-1-webrip-hindi-full-series",
       "slug": "the-body-season-1-season-1-webrip-hindi-full-series",
