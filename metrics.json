@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-11-12T05:59:27.828Z",
-  "total_records": 349,
+  "last_updated": "2026-11-12T15:01:42.105Z",
+  "total_records": 353,
   "dataset": [
+    {
+      "id": "study-group-season-1-webrip-hindi-full-series",
+      "slug": "study-group-season-1-webrip-hindi-full-series",
+      "title": "Study Group (Season 1) & | PrimeVideo Series",
+      "movieName": "Study Group (Season 1) & | PrimeVideo Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/study-group-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nZDeIfKCzp0qhu4N3HxrcKWN59J.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "escape-room-2021-webrip-hindi-full-movie",
+      "slug": "escape-room-2021-webrip-hindi-full-movie",
+      "title": "Escape Room (2021) & | Full Movie",
+      "movieName": "Escape Room (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "/escape-room-2021-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/12/Escape-Room.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "m3gan-2023-webrip-hindi-full-movie",
+      "slug": "m3gan-2023-webrip-hindi-full-movie",
+      "title": "M3GAN (2023) & | Full Movie",
+      "movieName": "M3GAN (2023) & | Full Movie",
+      "year": 2023,
+      "qualityBadge": "FHD",
+      "link": "/m3gan-2023-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/12/M3GAN-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "mission-impossible-rogue-nation-2015-hindi-bluray-full-movie",
+      "slug": "mission-impossible-rogue-nation-2015-hindi-bluray-full-movie",
+      "title": "Mission: Impossible – Rogue Nation (2015) & | Full Movie",
+      "movieName": "Mission: Impossible – Rogue Nation (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "/mission-impossible-rogue-nation-2015-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/12/Mission-Impossible---Rogue-Nation-2015.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "jailer-2-2026-hindi-webrip-full-movie",
       "slug": "jailer-2-2026-hindi-webrip-full-movie",
