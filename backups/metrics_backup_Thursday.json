@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-12T15:01:42.105Z",
-  "total_records": 353,
+  "last_updated": "2026-11-12T22:04:15.894Z",
+  "total_records": 360,
   "dataset": [
+    {
+      "id": "ranabaali-2026-ds4k-webrip-hindi-full-movie",
+      "slug": "ranabaali-2026-ds4k-webrip-hindi-full-movie",
+      "title": "Ranabaali (2026) DS & | Full Movie",
+      "movieName": "Ranabaali (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/ranabaali-2026-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "vibe-2026-webrip-hindi-full-movie",
+      "slug": "vibe-2026-webrip-hindi-full-movie",
+      "title": "Vibe (2026) DS & | Full Movie",
+      "movieName": "Vibe (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/vibe-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "daayra-2026-webrip-hindi-full-movie",
+      "slug": "daayra-2026-webrip-hindi-full-movie",
+      "title": "Daayra (2026) & | Full Movie,",
+      "movieName": "Daayra (2026) & | Full Movie,",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/daayra-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "parivarik-manuranjan-2026-ds4k-webrip-hindi-full-movie",
+      "slug": "parivarik-manuranjan-2026-ds4k-webrip-hindi-full-movie",
+      "title": "Parivarik ManuRanjan (2026) DS & | Full Movie",
+      "movieName": "Parivarik ManuRanjan (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/parivarik-manuranjan-2026-ds4k-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "blush-2021-webrip-hindi-full-movie",
+      "slug": "blush-2021-webrip-hindi-full-movie",
+      "title": "Blush (2021) & | Full Movie",
+      "movieName": "Blush (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "/blush-2021-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/11/Blush-2021.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "bully-bad-guys-2020-webrip-hindi-full-movie",
+      "slug": "bully-bad-guys-2020-webrip-hindi-full-movie",
+      "title": "Bully Bad Guys (2020) & | Full Movie",
+      "movieName": "Bully Bad Guys (2020) & | Full Movie",
+      "year": 2020,
+      "qualityBadge": "FHD",
+      "link": "/bully-bad-guys-2020-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/12/Bully-Bad-Guys-2020.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "dead-zone-2022-hindi-bluray-full-movie",
+      "slug": "dead-zone-2022-hindi-bluray-full-movie",
+      "title": "Dead Zone (2022) & | Full Movie",
+      "movieName": "Dead Zone (2022) & | Full Movie",
+      "year": 2022,
+      "qualityBadge": "FHD",
+      "link": "/dead-zone-2022-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/12/Dead-Zone-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "study-group-season-1-webrip-hindi-full-series",
       "slug": "study-group-season-1-webrip-hindi-full-series",
