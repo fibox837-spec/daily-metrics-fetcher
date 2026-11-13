@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-13T03:10:35.084Z",
-  "total_records": 360,
+  "last_updated": "2026-11-13T11:54:00.280Z",
+  "total_records": 366,
   "dataset": [
+    {
+      "id": "avengers-endgame-encore-2026-imax-webrip-hindi-full-movie",
+      "slug": "avengers-endgame-encore-2026-imax-webrip-hindi-full-movie",
+      "title": "Avengers Endgame: Encore (2026) iMAX & | Full Movie",
+      "movieName": "Avengers Endgame: Encore (2026) iMAX & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/avengers-endgame-encore-2026-imax-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/auDGSOatAJ8T2Fk8rTKNCmDeuwc.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "heartland-2026-webrip-hindi-full-movie",
+      "slug": "heartland-2026-webrip-hindi-full-movie",
+      "title": "Heartland (2026) & | Full Movie",
+      "movieName": "Heartland (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/heartland-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-third-murder-2026-webrip-hindi-full-movie",
+      "slug": "the-third-murder-2026-webrip-hindi-full-movie",
+      "title": "The Third Murder (2026) & | Full Movie",
+      "movieName": "The Third Murder (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-third-murder-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "student-of-the-year-after-dark-season-1-webrip-hindi-full-series",
+      "slug": "student-of-the-year-after-dark-season-1-webrip-hindi-full-series",
+      "title": "Student of the Year: After Dark (Season 1) & | JioHotstar Series",
+      "movieName": "Student of the Year: After Dark (Season 1) & | JioHotstar Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/student-of-the-year-after-dark-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/xhCYEdoYL8yl7ijzYUopYO0r6MC.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "prem-keetanu-2026-webrip-hindi-full-movie",
+      "slug": "prem-keetanu-2026-webrip-hindi-full-movie",
+      "title": "Prem Keetanu (2026) & | Full Movie",
+      "movieName": "Prem Keetanu (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/prem-keetanu-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wdCKyW2qm9ufu5k8WwS1XXKgxsp.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "cold-storage-2026-bluray-hindi-full-movie",
+      "slug": "cold-storage-2026-bluray-hindi-full-movie",
+      "title": "Cold Storage (2026) & | Full Movie",
+      "movieName": "Cold Storage (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/cold-storage-2026-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "ranabaali-2026-ds4k-webrip-hindi-full-movie",
       "slug": "ranabaali-2026-ds4k-webrip-hindi-full-movie",
