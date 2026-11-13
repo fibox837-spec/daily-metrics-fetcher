@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-13T11:54:00.280Z",
-  "total_records": 366,
+  "last_updated": "2026-11-13T19:17:02.359Z",
+  "total_records": 367,
   "dataset": [
+    {
+      "id": "lenin-pandiyan-2026-webrip-hindi-full-movie",
+      "slug": "lenin-pandiyan-2026-webrip-hindi-full-movie",
+      "title": "Lenin Pandiyan (2026) & | Full Movie",
+      "movieName": "Lenin Pandiyan (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/lenin-pandiyan-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qhvvef3ayMfnuA4wQcPscC8em0A.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "avengers-endgame-encore-2026-imax-webrip-hindi-full-movie",
       "slug": "avengers-endgame-encore-2026-imax-webrip-hindi-full-movie",
