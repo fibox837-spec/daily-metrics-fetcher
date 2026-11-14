@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-14T07:24:30.540Z",
-  "total_records": 367,
+  "last_updated": "2026-11-14T14:48:38.012Z",
+  "total_records": 370,
   "dataset": [
+    {
+      "id": "raakaasa-2025-uncut-webrip-hindi-full-movie",
+      "slug": "raakaasa-2025-uncut-webrip-hindi-full-movie",
+      "title": "Raakaasa (2025) UNCUT & | Full Movie",
+      "movieName": "Raakaasa (2025) UNCUT & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "4K",
+      "link": "/raakaasa-2025-uncut-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/sXwVJJMIPB4duU1mWbagt5ikUtq.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-beast-2026-hindi-webrip-full-movie",
+      "slug": "the-beast-2026-hindi-webrip-full-movie",
+      "title": "The Beast (2026) & | Full Movie",
+      "movieName": "The Beast (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/the-beast-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "brawlers-2026-webrip-hindi-full-movie",
+      "slug": "brawlers-2026-webrip-hindi-full-movie",
+      "title": "Brawlers (2026) & | Full Movie",
+      "movieName": "Brawlers (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/brawlers-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jbZ1HbrM5Cf6U7mnJLQV6Td9L2s.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "lenin-pandiyan-2026-webrip-hindi-full-movie",
       "slug": "lenin-pandiyan-2026-webrip-hindi-full-movie",
