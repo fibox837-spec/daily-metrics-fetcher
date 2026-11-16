@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-15T23:47:05.669Z",
-  "total_records": 378,
+  "last_updated": "2026-11-16T05:03:29.324Z",
+  "total_records": 379,
   "dataset": [
+    {
+      "id": "english-vinglish-2012-webrip-hindi-full-movie",
+      "slug": "english-vinglish-2012-webrip-hindi-full-movie",
+      "title": "Vinglish (2012) & | Full Movie",
+      "movieName": "Vinglish (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/english-vinglish-2012-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "monstrous-2020-webrip-hindi-full-movie",
       "slug": "monstrous-2020-webrip-hindi-full-movie",
