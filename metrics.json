@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-17T16:43:36.071Z",
-  "total_records": 391,
+  "last_updated": "2026-11-17T23:45:54.757Z",
+  "total_records": 393,
   "dataset": [
+    {
+      "id": "premada-oorali-2026-hindi-webrip-full-movie",
+      "slug": "premada-oorali-2026-hindi-webrip-full-movie",
+      "title": "Premada Oorali (2026) & | Full Movie",
+      "movieName": "Premada Oorali (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/premada-oorali-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/iPqNw8FDqi34SiB0z9BuYKFqPm3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-odyssey-2026-hindi-imax-bluray-full-movie",
+      "slug": "the-odyssey-2026-hindi-imax-bluray-full-movie",
+      "title": "The Odyssey (2026) iMAX & | Full Movie",
+      "movieName": "The Odyssey (2026) iMAX & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-odyssey-2026-hindi-imax-bluray-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "buddha-2-the-endless-journey-2014-hindi-bluray-full-movie",
       "slug": "buddha-2-the-endless-journey-2014-hindi-bluray-full-movie",
