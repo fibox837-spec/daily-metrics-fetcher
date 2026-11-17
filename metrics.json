@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-11-17T06:51:51.894Z",
-  "total_records": 387,
+  "last_updated": "2026-11-17T16:43:36.071Z",
+  "total_records": 391,
   "dataset": [
+    {
+      "id": "buddha-2-the-endless-journey-2014-hindi-bluray-full-movie",
+      "slug": "buddha-2-the-endless-journey-2014-hindi-bluray-full-movie",
+      "title": "Buddha 2: The Endless Journey (2014) & | Full Movie",
+      "movieName": "Buddha 2: The Endless Journey (2014) & | Full Movie",
+      "year": 2014,
+      "qualityBadge": "FHD",
+      "link": "/buddha-2-the-endless-journey-2014-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/17/Buddha-2-The-Endless-Journey-2014.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "cisza-nocna-night-silence-2024-webrip-hindi-full-movie",
+      "slug": "cisza-nocna-night-silence-2024-webrip-hindi-full-movie",
+      "title": "Cisza nocna Night Silence (2024) & | Full Movie",
+      "movieName": "Cisza nocna Night Silence (2024) & | Full Movie",
+      "year": 2024,
+      "qualityBadge": "FHD",
+      "link": "/cisza-nocna-night-silence-2024-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/17/Night-Silence-2024.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "poltergeist-1982-hindi-bluray-full-movie",
+      "slug": "poltergeist-1982-hindi-bluray-full-movie",
+      "title": "Poltergeist (1982) & | Full Movie",
+      "movieName": "Poltergeist (1982) & | Full Movie",
+      "year": 1982,
+      "qualityBadge": "FHD",
+      "link": "/poltergeist-1982-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/17/Poltergeist-1982.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sisu-2022-hindi-bluray-full-movie",
+      "slug": "sisu-2022-hindi-bluray-full-movie",
+      "title": "Sisu (2022) & | Full Movie",
+      "movieName": "Sisu (2022) & | Full Movie",
+      "year": 2022,
+      "qualityBadge": "FHD",
+      "link": "/sisu-2022-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/17/Sisu-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "must-love-christmas-2022-webrip-hindi-full-movie",
       "slug": "must-love-christmas-2022-webrip-hindi-full-movie",
