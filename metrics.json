@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-11-18T16:14:08.278Z",
-  "total_records": 396,
+  "last_updated": "2026-11-18T23:17:48.324Z",
+  "total_records": 400,
   "dataset": [
+    {
+      "id": "last-meal-2026-webrip-hindi-full-movie",
+      "slug": "last-meal-2026-webrip-hindi-full-movie",
+      "title": "Last Meal (2026) & | Full Movie",
+      "movieName": "Last Meal (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/last-meal-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "cult-2026-webrip-hindi-full-movie",
+      "slug": "cult-2026-webrip-hindi-full-movie",
+      "title": "#Cult (2026) DS & | Full Movie",
+      "movieName": "#Cult (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/cult-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lU5R4437Dtgom9q5HVlt6ArxwcM.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "guarding-stars-2026-webrip-hindi-full-movie",
+      "slug": "guarding-stars-2026-webrip-hindi-full-movie",
+      "title": "Guarding Stars (2026) & | Full Movie",
+      "movieName": "Guarding Stars (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/guarding-stars-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "campus-diaries-season-1-hindi-webrip-all-episodes",
+      "slug": "campus-diaries-season-1-hindi-webrip-all-episodes",
+      "title": "Campus Diaries (Season 1) & HD | ALL Episodes",
+      "movieName": "Campus Diaries (Season 1) & HD | ALL Episodes",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/campus-diaries-season-1-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2yIzBzz0I01gxtCgMH8floKX1DS.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "fight-against-evil-3-2026-hindi-webrip-full-movie",
       "slug": "fight-against-evil-3-2026-hindi-webrip-full-movie",
