@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-19T16:21:24.555Z",
-  "total_records": 411,
+  "last_updated": "2026-11-19T23:25:19.800Z",
+  "total_records": 417,
   "dataset": [
+    {
+      "id": "marrow-2026-hindi-webrip-full-movie",
+      "slug": "marrow-2026-hindi-webrip-full-movie",
+      "title": "Marrow (2026) & | Full Movie",
+      "movieName": "Marrow (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/marrow-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vlws4ufmogZKQLDT0wF13QAtMpL.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "drones-2026-hindi-webrip-full-movie",
+      "slug": "drones-2026-hindi-webrip-full-movie",
+      "title": "Drones (2026) & | Full Movie",
+      "movieName": "Drones (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/drones-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/k14luImbnzAhFZzqFKgvVrnOF4D.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "haiku-2026-hindi-webrip-full-movie",
+      "slug": "haiku-2026-hindi-webrip-full-movie",
+      "title": "Haiku (2026) DS & | Full Movie",
+      "movieName": "Haiku (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/haiku-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/thZGedKvZnnvuLpNWEA1nmalM7K.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "418-2026-hindi-webrip-full-movie",
+      "slug": "418-2026-hindi-webrip-full-movie",
+      "title": "418 (2026) & | Full Movie",
+      "movieName": "418 (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/418-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/thfU6DM9rFEWu9xiY9SXDunaMc3.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "teen-tigada-season-1-hindi-webrip-all-episodes",
+      "slug": "teen-tigada-season-1-hindi-webrip-all-episodes",
+      "title": "Teen Tigada (Season 1) DS & HD | ALL Episodes",
+      "movieName": "Teen Tigada (Season 1) DS & HD | ALL Episodes",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/teen-tigada-season-1-hindi-webrip-all-episodes/",
+      "posterUrl": "https://catimages.org/images/2026/11/20/Teen-Tigada-Season-1-Hindi-HDRip-Full-Series-HDHub4u.Ag.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-altruists-season-1-webrip-hindi-full-series",
+      "slug": "the-altruists-season-1-webrip-hindi-full-series",
+      "title": "The Altruists (Season 1) & | NF Series",
+      "movieName": "The Altruists (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-altruists-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "anbil-avan-2026-webrip-hindi-full-movie",
       "slug": "anbil-avan-2026-webrip-hindi-full-movie",
