@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-20T05:57:44.338Z",
-  "total_records": 417,
+  "last_updated": "2026-11-20T15:10:35.617Z",
+  "total_records": 422,
   "dataset": [
+    {
+      "id": "dhindora-season-2-hindi-webrip-all-episodes",
+      "slug": "dhindora-season-2-hindi-webrip-all-episodes",
+      "title": "Dhindora (Season 2) DS & HD | ALL Episodes",
+      "movieName": "Dhindora (Season 2) DS & HD | ALL Episodes",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/dhindora-season-2-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/zxWErCIUjjcrBobL5bIQnW5Lph7.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-blue-road-season-1-hindi-webrip-all-episodes",
+      "slug": "the-blue-road-season-1-hindi-webrip-all-episodes",
+      "title": "The Blue Road (Season 1) & | | NF Series",
+      "movieName": "The Blue Road (Season 1) & | | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-blue-road-season-1-hindi-webrip-all-episodes/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-raid-2026-webrip-hindi-full-movie",
+      "slug": "the-raid-2026-webrip-hindi-full-movie",
+      "title": "The Raid (2026) & | Full Movie",
+      "movieName": "The Raid (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/the-raid-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/11/20/The-Raid-2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "perfect-liars-2026-hindi-webrip-full-movie",
+      "slug": "perfect-liars-2026-hindi-webrip-full-movie",
+      "title": "Perfect Liars (2026) & | Full Movie",
+      "movieName": "Perfect Liars (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/perfect-liars-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "our-girls-2025-webrip-hindi-full-movie",
+      "slug": "our-girls-2025-webrip-hindi-full-movie",
+      "title": "Our Girls (2025) & | Full Movie",
+      "movieName": "Our Girls (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "FHD",
+      "link": "/our-girls-2025-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/8g8kx20bZCJ2nqCwORfRLTbKYWf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "marrow-2026-hindi-webrip-full-movie",
       "slug": "marrow-2026-hindi-webrip-full-movie",
