@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-11-21T12:10:46.793Z",
-  "total_records": 427,
+  "last_updated": "2026-11-21T19:57:38.917Z",
+  "total_records": 431,
   "dataset": [
+    {
+      "id": "o-m-operation-mole-2026-hindi-multi-v2-hdtc-full-movie",
+      "slug": "o-m-operation-mole-2026-hindi-multi-v2-hdtc-full-movie",
+      "title": "O.M: Operation Mole (2026) V2 HQ-HDTC (LiNE) & Multi Audio | Full Movie",
+      "movieName": "O.M: Operation Mole (2026) V2 HQ-HDTC (LiNE) & Multi Audio | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/o-m-operation-mole-2026-hindi-multi-v2-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3dHXTBtJO00lPrdybfxQZ0W9dEf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "nanhey-dil-2026-hdtc-hindi-full-movie",
+      "slug": "nanhey-dil-2026-hdtc-hindi-full-movie",
+      "title": "Nanhey Dil (2026) HDTC & | Full Movie",
+      "movieName": "Nanhey Dil (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/nanhey-dil-2026-hdtc-hindi-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/11/22/Nanhey-Dil-2026-Poster.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-scarecrow-season-1-webrip-hindi-full-series",
+      "slug": "the-scarecrow-season-1-webrip-hindi-full-series",
+      "title": "The Scarecrow (Season 1) & | PrimeVideo Series",
+      "movieName": "The Scarecrow (Season 1) & | PrimeVideo Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/the-scarecrow-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "steps-2026-webrip-hindi-full-movie",
+      "slug": "steps-2026-webrip-hindi-full-movie",
+      "title": "Steps (2026) & | Full Movie",
+      "movieName": "Steps (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/steps-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-green-hornet-2011-hindi-bluray-full-movie",
       "slug": "the-green-hornet-2011-hindi-bluray-full-movie",
