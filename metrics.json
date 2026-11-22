@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-22T00:12:33.908Z",
-  "total_records": 431,
+  "last_updated": "2026-11-22T07:48:11.318Z",
+  "total_records": 432,
   "dataset": [
+    {
+      "id": "pratap-2026-hdtc-hindi-full-movie",
+      "slug": "pratap-2026-hdtc-hindi-full-movie",
+      "title": "Pratap (2026) HDTC & | Full Movie",
+      "movieName": "Pratap (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/pratap-2026-hdtc-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/Atmf4lldOmtzSPZw0KC6UAUYpTt.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "o-m-operation-mole-2026-hindi-multi-v2-hdtc-full-movie",
       "slug": "o-m-operation-mole-2026-hindi-multi-v2-hdtc-full-movie",
