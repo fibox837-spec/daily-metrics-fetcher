@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-22T15:58:27.376Z",
-  "total_records": 435,
+  "last_updated": "2026-11-22T21:39:52.414Z",
+  "total_records": 437,
   "dataset": [
+    {
+      "id": "party-animals-2026-hindi-line-hdtc-full-movie",
+      "slug": "party-animals-2026-hindi-line-hdtc-full-movie",
+      "title": "Party Animals (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "movieName": "Party Animals (2026) HQ-HDTC (LiNE) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/party-animals-2026-hindi-line-hdtc-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lDMqG2VsF0dqDRCJSgMk662QSfq.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "son-of-2026-webrip-hindi-ull-movie",
+      "slug": "son-of-2026-webrip-hindi-ull-movie",
+      "title": "Son Of (2026) UNCUT & | Full Movie",
+      "movieName": "Son Of (2026) UNCUT & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/son-of-2026-webrip-hindi-ull-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/fQGZgfMgSc2x2h2sKlh5KEPQh7b.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "mayookha-2026-hindi-webrip-full-movie",
       "slug": "mayookha-2026-hindi-webrip-full-movie",
