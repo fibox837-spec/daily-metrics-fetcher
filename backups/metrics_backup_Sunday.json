@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-22T07:48:11.318Z",
-  "total_records": 432,
+  "last_updated": "2026-11-22T15:58:27.376Z",
+  "total_records": 435,
   "dataset": [
+    {
+      "id": "mayookha-2026-hindi-webrip-full-movie",
+      "slug": "mayookha-2026-hindi-webrip-full-movie",
+      "title": "Mayookha (2026) & | Full Movie",
+      "movieName": "Mayookha (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/mayookha-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/7DPJPa3IX8jgthqK8sSnENrVzhA.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-good-doctor-season-1-webrip-hindi-full-series",
+      "slug": "the-good-doctor-season-1-webrip-hindi-full-series",
+      "title": "The Good Doctor (Season 1) & | NF Series",
+      "movieName": "The Good Doctor (Season 1) & | NF Series",
+      "year": null,
+      "qualityBadge": "4K",
+      "link": "/the-good-doctor-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/168rcWbfYVb5SRlzjl98z1J6cQ4.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "sathyavan-savithiri-2026-hdtc-tamil-full-movie",
+      "slug": "sathyavan-savithiri-2026-hdtc-tamil-full-movie",
+      "title": "Sathyavan Savithiri (2026) HQ-HDTC & | Full Movie",
+      "movieName": "Sathyavan Savithiri (2026) HQ-HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/sathyavan-savithiri-2026-hdtc-tamil-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6mtKGOJhIPPaBZFG7qjTsRuzSxs.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "pratap-2026-hdtc-hindi-full-movie",
       "slug": "pratap-2026-hdtc-hindi-full-movie",
