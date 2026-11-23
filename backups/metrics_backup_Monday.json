@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-23T11:53:33.625Z",
-  "total_records": 443,
+  "last_updated": "2026-11-23T23:28:13.847Z",
+  "total_records": 446,
   "dataset": [
+    {
+      "id": "chakkven-2026-hdtc-punjabi-full-movie",
+      "slug": "chakkven-2026-hdtc-punjabi-full-movie",
+      "title": "Chakkven (2026) HDTC & | Full Movie",
+      "movieName": "Chakkven (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/chakkven-2026-hdtc-punjabi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lmgM5V9izLecJ3XUTqnJsiejwLa.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-social-reckoning-2026-hindi-webrip-full-movie",
+      "slug": "the-social-reckoning-2026-hindi-webrip-full-movie",
+      "title": "The Social Reckoning (2026) & | Full Movie",
+      "movieName": "The Social Reckoning (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/the-social-reckoning-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "clashing-through-the-snow-2026-webrip-hindi-full-movie",
+      "slug": "clashing-through-the-snow-2026-webrip-hindi-full-movie",
+      "title": "Clashing Through the Snow (2026) & | Full Movie",
+      "movieName": "Clashing Through the Snow (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/clashing-through-the-snow-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://catimages.org/images/2026/11/23/Clashing-Through-the-Snow-2026.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "the-hunger-games-sunrise-on-the-reaping-2026-hdtc-english-clean-full-movie",
       "slug": "the-hunger-games-sunrise-on-the-reaping-2026-hdtc-english-clean-full-movie",
