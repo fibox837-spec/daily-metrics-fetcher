@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-23T02:18:44.715Z",
-  "total_records": 437,
+  "last_updated": "2026-11-23T11:53:33.625Z",
+  "total_records": 443,
   "dataset": [
+    {
+      "id": "the-hunger-games-sunrise-on-the-reaping-2026-hdtc-english-clean-full-movie",
+      "slug": "the-hunger-games-sunrise-on-the-reaping-2026-hdtc-english-clean-full-movie",
+      "title": "The Hunger Games: Sunrise on the Reaping (2026) HDTC & | Full Movie",
+      "movieName": "The Hunger Games: Sunrise on the Reaping (2026) HDTC & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/the-hunger-games-sunrise-on-the-reaping-2026-hdtc-english-clean-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "clean-2021-hindi-bluray-full-movie",
+      "slug": "clean-2021-hindi-bluray-full-movie",
+      "title": "Clean (2021) & | Full Movie",
+      "movieName": "Clean (2021) & | Full Movie",
+      "year": 2021,
+      "qualityBadge": "FHD",
+      "link": "/clean-2021-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/23/Clean-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "deep-rising-1998-hindi-bluray-full-movie",
+      "slug": "deep-rising-1998-hindi-bluray-full-movie",
+      "title": "Deep Rising (1998) & | Full Movie",
+      "movieName": "Deep Rising (1998) & | Full Movie",
+      "year": 1998,
+      "qualityBadge": "FHD",
+      "link": "/deep-rising-1998-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/23/Deep-Rising-1998.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "welcome-home-2018-hindi-bluray-full-movie",
+      "slug": "welcome-home-2018-hindi-bluray-full-movie",
+      "title": "Welcome Home (2018) & | Full Movie",
+      "movieName": "Welcome Home (2018) & | Full Movie",
+      "year": 2018,
+      "qualityBadge": "FHD",
+      "link": "/welcome-home-2018-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/23/Welcome-Home-2018.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "where-the-crawdads-sing-2022-webrip-hindi-full-movie",
+      "slug": "where-the-crawdads-sing-2022-webrip-hindi-full-movie",
+      "title": "Where the Crawdads Sing (2022) & | Full Movie",
+      "movieName": "Where the Crawdads Sing (2022) & | Full Movie",
+      "year": 2022,
+      "qualityBadge": "FHD",
+      "link": "/where-the-crawdads-sing-2022-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/23/Where-the-Crawdads-Sing-2022.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-saint-the-fiction-makers-1968-webrip-hindi-full-movie",
+      "slug": "the-saint-the-fiction-makers-1968-webrip-hindi-full-movie",
+      "title": "The Saint The Fiction-Makers (1968) & | Full Movie",
+      "movieName": "The Saint The Fiction-Makers (1968) & | Full Movie",
+      "year": 1968,
+      "qualityBadge": "FHD",
+      "link": "/the-saint-the-fiction-makers-1968-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/23/The-Fiction-Makers1968.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "party-animals-2026-hindi-line-hdtc-full-movie",
       "slug": "party-animals-2026-hindi-line-hdtc-full-movie",
