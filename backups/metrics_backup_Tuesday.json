@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-23T23:28:13.847Z",
-  "total_records": 446,
+  "last_updated": "2026-11-24T08:42:12.951Z",
+  "total_records": 447,
   "dataset": [
+    {
+      "id": "ice-cream-man-2026-bluray-hindi-full-movie",
+      "slug": "ice-cream-man-2026-bluray-hindi-full-movie",
+      "title": "Ice Cream Man (2026) & | Full Movie",
+      "movieName": "Ice Cream Man (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/ice-cream-man-2026-bluray-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "chakkven-2026-hdtc-punjabi-full-movie",
       "slug": "chakkven-2026-hdtc-punjabi-full-movie",
