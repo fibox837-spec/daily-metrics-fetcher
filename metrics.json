@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-24T08:42:12.951Z",
-  "total_records": 447,
+  "last_updated": "2026-11-24T19:58:43.584Z",
+  "total_records": 449,
   "dataset": [
+    {
+      "id": "delhi-2021-2026-hindi-webrip-full-movie",
+      "slug": "delhi-2021-2026-hindi-webrip-full-movie",
+      "title": "Delhi 2021 (2026) DS & | Full Movie",
+      "movieName": "Delhi 2021 (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/delhi-2021-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lSZs3yqsBqNacZaXVbv5CE6KVov.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "janata-bar-2025-webrip-hindi-full-movie",
+      "slug": "janata-bar-2025-webrip-hindi-full-movie",
+      "title": "Janata Bar (2025) & | Full Movie",
+      "movieName": "Janata Bar (2025) & | Full Movie",
+      "year": 2025,
+      "qualityBadge": "FHD",
+      "link": "/janata-bar-2025-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2Zpk5lM4hR6KferfpQ0iqZcTM3o.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "ice-cream-man-2026-bluray-hindi-full-movie",
       "slug": "ice-cream-man-2026-bluray-hindi-full-movie",
