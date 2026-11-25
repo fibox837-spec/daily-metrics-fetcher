@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-25T13:56:38.028Z",
-  "total_records": 458,
+  "last_updated": "2026-11-25T22:58:48.283Z",
+  "total_records": 459,
   "dataset": [
+    {
+      "id": "garividi-lakshmi-2026-hindi-webrip-full-movie",
+      "slug": "garividi-lakshmi-2026-hindi-webrip-full-movie",
+      "title": "Garividi Lakshmi (2026) & | Full Movie",
+      "movieName": "Garividi Lakshmi (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/garividi-lakshmi-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qhZ01fVnKZ39zSboOgHWZ648wxa.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "blade-runner-2099-season-1-hindi-webrip-all-episodes",
       "slug": "blade-runner-2099-season-1-hindi-webrip-all-episodes",
