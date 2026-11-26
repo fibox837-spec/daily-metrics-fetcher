@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-26T04:53:29.600Z",
-  "total_records": 460,
+  "last_updated": "2026-11-26T14:45:24.095Z",
+  "total_records": 466,
   "dataset": [
+    {
+      "id": "singh-vs-kaur-2-2026-punjabi-webrip-full-movie",
+      "slug": "singh-vs-kaur-2-2026-punjabi-webrip-full-movie",
+      "title": "Singh vs Kaur 2 (2026) & | Full Movie",
+      "movieName": "Singh vs Kaur 2 (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/singh-vs-kaur-2-2026-punjabi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/a5je3wpwl5YQTRT953DkbAvvnOU.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "area-51-2015-webrip-hindi-full-movie",
+      "slug": "area-51-2015-webrip-hindi-full-movie",
+      "title": "Area 51 (2015) & | Full Movie",
+      "movieName": "Area 51 (2015) & | Full Movie",
+      "year": 2015,
+      "qualityBadge": "FHD",
+      "link": "/area-51-2015-webrip-hindi-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/26/Area-51.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "here-comes-the-boom-2012-hindi-bluray-full-movie",
+      "slug": "here-comes-the-boom-2012-hindi-bluray-full-movie",
+      "title": "Here Comes the Boom (2012) & | Full Movie",
+      "movieName": "Here Comes the Boom (2012) & | Full Movie",
+      "year": 2012,
+      "qualityBadge": "FHD",
+      "link": "/here-comes-the-boom-2012-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/26/Here-Comes-the-Boom-2012.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "contagion-2011-hindi-bluray-full-movie",
+      "slug": "contagion-2011-hindi-bluray-full-movie",
+      "title": "Contagion (2011) & | Full Movie",
+      "movieName": "Contagion (2011) & | Full Movie",
+      "year": 2011,
+      "qualityBadge": "FHD",
+      "link": "/contagion-2011-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/26/Contagion-2011.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "force-10-from-navarone-1978-hindi-bluray-full-movie",
+      "slug": "force-10-from-navarone-1978-hindi-bluray-full-movie",
+      "title": "Force 10 from Navarone (1978) & | Full Movie",
+      "movieName": "Force 10 from Navarone (1978) & | Full Movie",
+      "year": 1978,
+      "qualityBadge": "FHD",
+      "link": "/force-10-from-navarone-1978-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/26/Force-10-from-Navarone-1978.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "unknown-2011-hindi-bluray-full-movie",
+      "slug": "unknown-2011-hindi-bluray-full-movie",
+      "title": "Unknown (2011) & | Full Movie",
+      "movieName": "Unknown (2011) & | Full Movie",
+      "year": 2011,
+      "qualityBadge": "FHD",
+      "link": "/unknown-2011-hindi-bluray-full-movie/",
+      "posterUrl": "https://imgshare.info/images/2026/11/26/Unknown-2011.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "nine-to-six-season-1-webrip-hindi-full-series",
       "slug": "nine-to-six-season-1-webrip-hindi-full-series",
