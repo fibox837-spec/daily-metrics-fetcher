@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-26T14:45:24.095Z",
-  "total_records": 466,
+  "last_updated": "2026-11-26T23:30:51.284Z",
+  "total_records": 471,
   "dataset": [
+    {
+      "id": "aadarsha-kutumbam-house-no-47-ak47-2026-hindi-webrip-full-movie",
+      "slug": "aadarsha-kutumbam-house-no-47-ak47-2026-hindi-webrip-full-movie",
+      "title": "Aadarsha Kutumbam House No: 47 – AK47 (2026) DS & | Full Movie",
+      "movieName": "Aadarsha Kutumbam House No: 47 – AK47 (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/aadarsha-kutumbam-house-no-47-ak47-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/icXcj5raB97nXpGU0AAwKZ9ZdYR.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "hanuman-ansh-2026-hindi-webrip-full-movie",
+      "slug": "hanuman-ansh-2026-hindi-webrip-full-movie",
+      "title": "Hanuman Ansh (2026) & | Full Movie",
+      "movieName": "Hanuman Ansh (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/hanuman-ansh-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "drishyam-the-conclusion-2026-hindi-webrip-full-movie",
+      "slug": "drishyam-the-conclusion-2026-hindi-webrip-full-movie",
+      "title": "Drishyam: The Conclusion (2026) DS & | Full Movie",
+      "movieName": "Drishyam: The Conclusion (2026) DS & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/drishyam-the-conclusion-2026-hindi-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ebcCpMzanQHN4VeiyH3wBtm635G.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "bhedh-sach-ki-keemat-season-1-webrip-hindi-full-series",
+      "slug": "bhedh-sach-ki-keemat-season-1-webrip-hindi-full-series",
+      "title": "Bhedh: Sach Ki Keemat (Season 1) & | EPiC-ON Series",
+      "movieName": "Bhedh: Sach Ki Keemat (Season 1) & | EPiC-ON Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/bhedh-sach-ki-keemat-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/aTlGm7KR41bJFlTuQMpPvmBKUYd.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
+    {
+      "id": "the-good-doctor-season-2-webrip-hindi-full-series",
+      "slug": "the-good-doctor-season-2-webrip-hindi-full-series",
+      "title": "The Good Doctor (Season 2) & | NF Series",
+      "movieName": "The Good Doctor (Season 2) & | NF Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/the-good-doctor-season-2-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "singh-vs-kaur-2-2026-punjabi-webrip-full-movie",
       "slug": "singh-vs-kaur-2-2026-punjabi-webrip-full-movie",
