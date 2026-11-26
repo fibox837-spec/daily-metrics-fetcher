@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-25T22:58:48.283Z",
-  "total_records": 459,
+  "last_updated": "2026-11-26T04:53:29.600Z",
+  "total_records": 460,
   "dataset": [
+    {
+      "id": "nine-to-six-season-1-webrip-hindi-full-series",
+      "slug": "nine-to-six-season-1-webrip-hindi-full-series",
+      "title": "Nine to Six (Season 1) & | PrimeVideo Series",
+      "movieName": "Nine to Six (Season 1) & | PrimeVideo Series",
+      "year": null,
+      "qualityBadge": "FHD",
+      "link": "/nine-to-six-season-1-webrip-hindi-full-series/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "garividi-lakshmi-2026-hindi-webrip-full-movie",
       "slug": "garividi-lakshmi-2026-hindi-webrip-full-movie",
