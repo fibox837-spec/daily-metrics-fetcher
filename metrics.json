@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-26T23:30:51.284Z",
-  "total_records": 471,
+  "last_updated": "2026-11-27T07:00:09.697Z",
+  "total_records": 472,
   "dataset": [
+    {
+      "id": "street-fighter-2026-hindi-imax-webrip-full-movie",
+      "slug": "street-fighter-2026-hindi-imax-webrip-full-movie",
+      "title": "Street Fighter (2026) iMAX & | Full Movie",
+      "movieName": "Street Fighter (2026) iMAX & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "4K",
+      "link": "/street-fighter-2026-hindi-imax-webrip-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "aadarsha-kutumbam-house-no-47-ak47-2026-hindi-webrip-full-movie",
       "slug": "aadarsha-kutumbam-house-no-47-ak47-2026-hindi-webrip-full-movie",
