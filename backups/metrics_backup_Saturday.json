@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-27T17:24:12.577Z",
-  "total_records": 480,
+  "last_updated": "2026-11-28T01:11:58.853Z",
+  "total_records": 481,
   "dataset": [
+    {
+      "id": "april-x-2026-webrip-hindi-full-movie",
+      "slug": "april-x-2026-webrip-hindi-full-movie",
+      "title": "April X (2026) & | Full Movie",
+      "movieName": "April X (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/april-x-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/Aqth7r2pr79YPYj6WPGDs23F4Wb.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "yeh-prem-mol-liya-2026-hdtc-hindi-full-movie",
       "slug": "yeh-prem-mol-liya-2026-hdtc-hindi-full-movie",
