@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-28T01:11:58.853Z",
-  "total_records": 481,
+  "last_updated": "2026-11-28T09:51:59.688Z",
+  "total_records": 482,
   "dataset": [
+    {
+      "id": "ishaara-a-campus-beats-movie-2026-webrip-hindi-full-movie",
+      "slug": "ishaara-a-campus-beats-movie-2026-webrip-hindi-full-movie",
+      "title": "Ishaara – A Campus Beats Movie (2026) & | Full Movie",
+      "movieName": "Ishaara – A Campus Beats Movie (2026) & | Full Movie",
+      "year": 2026,
+      "qualityBadge": "FHD",
+      "link": "/ishaara-a-campus-beats-movie-2026-webrip-hindi-full-movie/",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/oZa5fHJjFar1P4Va5oOLLUKYjEf.jpg",
+      "isHindi": true,
+      "isDualAudio": true
+    },
     {
       "id": "april-x-2026-webrip-hindi-full-movie",
       "slug": "april-x-2026-webrip-hindi-full-movie",
